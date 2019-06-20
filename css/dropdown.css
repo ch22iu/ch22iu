@@ -40,3 +40,17 @@
 	visibility: hidden;
 	z-index: 0;
 }
+
+.mobilcss ul.menu
+{
+	display: none;
+	visibility: hidden;
+	z-index: 0;
+}
+
+header .mobilcss
+{
+	display: none;
+	visibility: hidden;
+	z-index: 0;
+}
