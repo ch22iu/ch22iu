@@ -71,12 +71,13 @@ a {
   padding: 28px 20px;
   position: relative;
   user-select: none;
+  height: 80px;
 }
 
 .mobilcss .menu-icon .navicon {
   background: #333;
   display: block;
-  height: 2px;
+  height: 4px;
   position: relative;
   transition: background .2s ease-out;
   width: 18px;
