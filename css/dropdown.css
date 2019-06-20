@@ -33,7 +33,11 @@
     ul li ul.dropdown li{
         display: block;
     }
-ul.menu
+
+header.header
+{display:none;}
+
+header.menu
 	{
 	display: none;
 }
