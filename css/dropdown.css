@@ -54,3 +54,8 @@ header .mobilcss
 	visibility: hidden;
 	z-index: 0;
 }
+
+#m4418
+{
+display:none;
+}
