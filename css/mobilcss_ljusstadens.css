@@ -3,6 +3,7 @@ body {
   margin: 0;
   font-family: 'Droid Serif', serif;
   background-color: #f4f4f4;
+  display: block;
 }
 
 a {

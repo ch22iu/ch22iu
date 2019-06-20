@@ -57,11 +57,12 @@ header .mobilcss
 
 #m4418
 {
-display:none;
+	display:none;
+	visibility: hidden;
 }
 
 
-.menu
+li.menu
 { 
 	display: none;
 	visibility: hidden;
