@@ -77,7 +77,7 @@ a {
 .mobilcss .menu-icon .navicon {
   background: #333;
   display: block;
-  height: 4px;
+  height: 8px;
   position: relative;
   transition: background .2s ease-out;
   width: 18px;
