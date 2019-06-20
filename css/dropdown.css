@@ -34,7 +34,7 @@
         display: block;
     }
 
-div#mobilcss
+.mobilcss
 {
 	display: none;
 	visibility: hidden;
