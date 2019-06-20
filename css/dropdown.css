@@ -33,3 +33,8 @@
     ul li ul.dropdown li{
         display: block;
     }
+
+.header
+	{
+	display: none;
+	}
