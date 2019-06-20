@@ -44,3 +44,12 @@ header .mobilcss
 {
 	display:none;
 }
+
+input#menu-btn
+{
+	display:none;
+}
+.menu-btn
+{
+	display:none;
+}
