@@ -186,6 +186,13 @@ a {
 	display:none;
 	}
 
+#r3539c
+
+{
+	display: none;
+}
+
+
 /* 48em = 768px */
 
 @media (min-width: 480px) {
