@@ -133,7 +133,8 @@ a {
     float: left;
   }
   .mobilcss li a {
-    padding: 20px 30px;
+    padding: 5px 10px;
+    color: black;
   }
   .mobilcss .menu {
     clear: none;
