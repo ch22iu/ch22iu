@@ -37,5 +37,6 @@
 div#mobilcss
 {
 	display: none;
+	visibility: hidden;
 	z-index: 0;
 }
