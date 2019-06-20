@@ -18,6 +18,7 @@ a {
   position: fixed;
   display: block;
   width: 100%;
+  left:-45px;
   z-index: 3;
 }
 
@@ -81,7 +82,7 @@ a {
 
 .mobilcss .menu-icon .navicon:before,
 .mobilcss .menu-icon .navicon:after {
-  background: #333;
+  background: #1f0000;
   content: '';
   display: block;
   height: 100%;
