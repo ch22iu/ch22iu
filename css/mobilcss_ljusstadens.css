@@ -16,6 +16,7 @@ a {
   background-color: #fff;
   box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
   position: fixed;
+  display: block;
   width: 100%;
   z-index: 3;
 }
@@ -53,6 +54,7 @@ a {
 .header .menu {
   clear: both;
   max-height: 0;
+  display: block;
   transition: max-height .2s ease-out;
 }
 
@@ -134,6 +136,7 @@ a {
   .header .menu {
     clear: none;
     float: right;
+    display: block;
     max-height: none;
   }
   .header .menu-icon {
