@@ -34,33 +34,8 @@
         display: block;
     }
 
-header.header
-{display:none;}
-
-header.menu
-	{
-	display: none;
-}
 #mobilcss
 {
 	display: none;
-}
-
-
-ul.menu
-{
-	display: none;
-}
-
-a.logo
-	{ display: none;}
-
-header.headerFixed
-{
-	display: none;
-}
-
-.headerFixed
-{
-	display: none;
+	z-index: 0;
 }
