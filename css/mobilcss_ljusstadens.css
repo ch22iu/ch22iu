@@ -77,10 +77,11 @@ a {
 .mobilcss .menu-icon .navicon {
   background: #333;
   display: block;
-  height: 2px;
+  height: 3px;
   position: relative;
   transition: background .2s ease-out;
-  width: 13px;
+  width: 16px;
+  height: 21px;
 }
 
 .mobilcss .menu-icon .navicon:before,
