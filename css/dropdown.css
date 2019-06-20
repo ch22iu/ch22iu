@@ -33,18 +33,6 @@
     ul li ul.dropdown li{
         display: block;
     }
-#header.header
-{
-	display: none;
-}
-.header
-	{
-	display: none;
-	}
-.menu 
-	{
-	display: none;
-	}
 ul.menu
 	{
 	display: none;
