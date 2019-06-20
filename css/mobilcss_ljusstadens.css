@@ -24,6 +24,7 @@ a {
 .header ul {
   margin: 0;
   padding: 0;
+  display: block;
   list-style: none;
   overflow: hidden;
   background-color: #fff;
@@ -184,6 +185,18 @@ a {
 #menysida {
 	display:none;
 	}
+
+header.header
+{display:block;}
+
+header.menu
+	{
+	display: block;
+}
+
+a.logo
+	{ display: block;}
+
 
 /* 48em = 768px */
 
