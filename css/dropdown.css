@@ -41,6 +41,15 @@ header.menu
 	{
 	display: none;
 }
+ul.meny
+{
+	display: none;
+}
 
 a.logo
 	{ display: none;}
+
+header.headerFixed
+{
+	display: none;
+}
