@@ -18,7 +18,7 @@ a {
   position: fixed;
   display: block;
   width: 100%;
-  left:5px;
+  left:0px;
   z-index: 3;
 }
 
@@ -41,7 +41,7 @@ a {
 
 .mobilcss li a:hover,
 .mobilcss .menu-btn:hover {
-  background-color: #4a021a;
+  text-color: #4a021a;
 }
 
 .mobilcss .logo {
