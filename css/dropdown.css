@@ -59,8 +59,8 @@ input#menu-btn
   background-width: 100%;
   background-height: 100%;
   background-repeat: no-repeat;
-  color: white;
-  font-size: 15px;
+  color: #454545;
+  padding: 4px 100px 5px 100px;
 }
 
 
