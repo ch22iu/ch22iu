@@ -65,9 +65,7 @@ input#menu-btn
   padding-left: 85px;
   padding-right: 355px;
   padding-bottom: 80px;
-
-
-
+  position: relative;
 }
 
 
