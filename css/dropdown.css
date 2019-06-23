@@ -81,11 +81,12 @@ input#menu-btn
 
 #Special {
   background-image: url("https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png");
-  background-width: 100%;
-  background-height: 100%;
   background-repeat: no-repeat;
   color: white;
-  padding: 50px 120px 50px 120px;
+  padding-top: 10px;
+  padding-left: 85px;
+  padding-right: 65px;
+  padding-bottom: 80px;
 }
 
 #Absoluta {
