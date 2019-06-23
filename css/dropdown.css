@@ -8,6 +8,8 @@
         position: relative;
         line-height: 21px;
         text-align: left;
+  	background-image: url("img/klasserbakgrund.png");
+  	background-color: #cccccc;
     }
     ul li a{
         display: block;
