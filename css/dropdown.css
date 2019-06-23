@@ -59,9 +59,24 @@ input#menu-btn
   background-width: 100%;
   background-height: 100%;
   background-repeat: no-repeat;
-  color: #454545;
+  color: white;
   padding: 4px 100px 5px 100px;
 }
-
+#Klass2 {
+  background-image: url("https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png");www
+  background-width: 100%;
+  background-height: 100%;
+  background-repeat: no-repeat;
+  color: white;
+  padding: 4px 100px 5px 100px;
+}
+#Klass3 {
+  background-image: url("https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png");www
+  background-width: 100%;
+  background-height: 100%;
+  background-repeat: no-repeat;
+  color: white;
+  padding: 4px 100px 5px 100px;
+}
 
 
