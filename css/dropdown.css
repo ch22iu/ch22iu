@@ -116,7 +116,7 @@ input#menu-btn
   background-height: 100%;
   background-repeat: no-repeat;
   color: white;
-  padding: 4px 120px 4px 120px;
+  padding: 4px 145px 4px 80px;
 }
 
 
@@ -136,8 +136,8 @@ input#menu-btn
   background-repeat: no-repeat;
   color: white;
   padding-top: 18px;
-  padding-left: 65px;
-  padding-right: 55px;
+  padding-left: 132px;
+  padding-right: 142px;
   padding-bottom: 60px;
   font-size:25px;
 }
