@@ -78,7 +78,10 @@ input#menu-btn
   background-height: 100%;
   background-repeat: no-repeat;
   color: white;
-  padding: 4px 100px 5px 100px;
+  padding-top: 18px;
+  padding-left: 122px;
+  padding-right: 197px;
+  padding-bottom: 60px;
 }
 #Klass2 {
   background-image: url("https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png");
@@ -86,7 +89,10 @@ input#menu-btn
   background-height: 100%;
   background-repeat: no-repeat;
   color: white;
-  padding: 4px 100px 5px 100px;
+  padding-top: 18px;
+  padding-left: 122px;
+  padding-right: 197px;
+  padding-bottom: 60px;
 }
 #Klass3 {
   background-image: url("https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png");
@@ -94,7 +100,11 @@ input#menu-btn
   background-height: 100%;
   background-repeat: no-repeat;
   color: white;
-  padding: 4px 100px 5px 100px;
+  padding-top: 18px;
+  padding-left: 122px;
+  padding-right: 197px;
+  padding-bottom: 60px;
+
 }
 
 #Special {
