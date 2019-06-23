@@ -53,3 +53,19 @@ input#menu-btn
 {
 	display:none;
 }
+
+#Klass1 {
+  background-image: url("https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png");www
+  background-width: 100%;
+  background-height: 440px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding: 45px;
+  padding-bottom: 35px;
+  padding-top: 35px;
+  color: white;
+  font-size: 15px;
+}
+
+
+
