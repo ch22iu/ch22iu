@@ -61,7 +61,13 @@ input#menu-btn
   background-height: 100%;
   background-repeat: no-repeat;
   color: white;
-  padding: 4px 100px 5px 100px;
+  padding-top: 10px;
+  padding-left: 85px;
+  padding-right: 355px;
+  padding-bottom: 80px;
+
+
+
 }
 
 
