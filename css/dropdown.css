@@ -57,15 +57,14 @@ input#menu-btn
 #underribbon
 {
   background-image: url("https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png");
-  background-width: 100%;
-  background-height: 100%;
   background-repeat: no-repeat;
   color: white;
-  padding-top: 10px;
-  padding-left: 85px;
-  padding-right: 355px;
-  padding-bottom: 80px;
-  position: relative;
+  left:125px;
+  position:absolute;
+  padding-top: 12px;
+  padding-left: 142px;
+  padding-right: 187px;
+  padding-bottom: 25px;
 }
 
 
