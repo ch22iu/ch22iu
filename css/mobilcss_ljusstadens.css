@@ -12,6 +12,10 @@ a {
 
 strong {
 	background-image: url("/uploads/1aEsWcFj/Klasserbakgrund.png");
+	background-width: 100%;
+  	background-height: 300px;
+  	background-color: #cccccc;
+  	padding:10px 100px 10px 100px;
 }
 
 
