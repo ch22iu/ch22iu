@@ -85,7 +85,7 @@ input#menu-btn
   background-height: 100%;
   background-repeat: no-repeat;
   color: white;
-  padding: 4px 100px 5px 100px;
+  padding: 50px 120px 50px 120px;
 }
 
 #Absoluta {
@@ -94,7 +94,7 @@ input#menu-btn
   background-height: 100%;
   background-repeat: no-repeat;
   color: white;
-  padding: 4px 100px 5px 100px;
+  padding: 50px 120px 50px 120px;
 }
 
 #Rullar {
@@ -103,7 +103,7 @@ input#menu-btn
   background-height: 100%;
   background-repeat: no-repeat;
   color: white;
-  padding: 4px 100px 5px 100px;
+  padding: 50px 120px 50px 120px;
 }
 
 
@@ -115,4 +115,33 @@ input#menu-btn
   color: white;
   padding: 4px 100px 5px 100px;
 }
+
+#Falafel {
+  background-image: url("https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png");www
+  background-width: 100%;
+  background-height: 100%;
+  background-repeat: no-repeat;
+  color: white;
+  padding: 4px 100px 5px 100px;
+}
+
+#Hamburgare {
+  background-image: url("https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png");www
+  background-width: 100%;
+  background-height: 100%;
+  background-repeat: no-repeat;
+  color: white;
+  padding: 4px 100px 5px 100px;
+}
+
+#Sallader {
+  background-image: url("https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png");www
+  background-width: 100%;
+  background-height: 100%;
+  background-repeat: no-repeat;
+  color: white;
+  padding: 4px 100px 5px 100px;
+}
+
+
 
