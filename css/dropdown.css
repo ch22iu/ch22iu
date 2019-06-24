@@ -111,6 +111,10 @@ input#menu-btn
   float: left;
 }
 
+#container-klass li {
+  margin-left:5px;
+}
+
 
 #underribbon
 {
