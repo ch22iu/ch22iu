@@ -54,6 +54,14 @@ input#menu-btn
 	display:none;
 }
 
+h1 {
+  position: absolute;
+  left: 150px;
+  width: 200px;
+  height: 120px;
+}
+
+
 #underribbon
 {
   background-image: url("https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png");
