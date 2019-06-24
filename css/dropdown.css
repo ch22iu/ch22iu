@@ -61,20 +61,18 @@ input#menu-btn
 }
 
 #sidmeny1 {
-  width: 400px;
-  height: 400px;
+  width: 250px;
+  height: 460px;
   float: left;
 }
 #sidmeny2 {
-  position: relative;
-  width: 350px;
-  height: 400px;
+  width: 250px;
+  height: 460px;
   float: left;
 }
 #sidmeny3 {
-  position: relative;
-  width: 350px;
-  height: 400px;
+  width: 250px;
+  height: 480px;
   float: left;
 }
 #sidmeny4 {
