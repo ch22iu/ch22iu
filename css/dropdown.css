@@ -103,8 +103,8 @@ input#menu-btn
 }
 
 #container-klass {
-  width: 100%;
-  height: 942px;
+  width: 350px;
+  height: auto;
   margin-top: 0px;
   marign-left: 0px;
   margin-right: 0px;
