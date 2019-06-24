@@ -48,7 +48,7 @@ a {
 #sidmeny6 {
   width: 350px;
   height: 357px;
-    margin-top: -23px;
+    margin-top: -2px;
   float: left;
 }
 
@@ -135,10 +135,10 @@ a {
     background-image: url(https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png);
     background-repeat: no-repeat;
     color: white;
-    padding-top: 18px;
-    padding-left: 94px;
-    padding-right: 155px;
-    padding-bottom: 60px;
+    padding-top: 20px;
+    padding-left: 64px;
+    padding-right: 102px;
+    padding-bottom: 24px;
     float: left;
 }
 
@@ -181,8 +181,8 @@ a {
     background-repeat: no-repeat;
     color: white;
     padding-top: 18px;
-    padding-left: 94px;
-    padding-right: 155px;
+    padding-left: 58px;
+    padding-right: 96px;
     padding-bottom: 60px;
     float: left;
 }
