@@ -12,14 +12,15 @@ a {
 
 #underribbon
 {
-  background-image: url("https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png");
-  background-repeat: no-repeat;
-  color: white;
-  background-position: center;
-  padding-top: 12px;
-  padding-left: 191px;
-  padding-right: 187px;
-  padding-bottom: 15px;
+    background-image: url(https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png);
+    background-repeat: no-repeat;
+    color: white;
+    background-position: center;
+    padding-top: 12px;
+    padding-left: 105px;
+    padding-right: 151px;
+    margin-left: 15px;
+    padding-bottom: 18px;
 }
 
 
