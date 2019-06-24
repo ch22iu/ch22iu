@@ -61,27 +61,32 @@ input#menu-btn
 }
 
 #sidmeny1 {
-  width: 350px;
-  height: 460px;
-  margin-top: -378px;
-  float: left;
+    background-color: whitesmoke;
+    width: 343px;
+    height: 409px;
+    margin-top: -378px;
+    float: left;
 }
 #sidmeny2 {
-  width: 350px;
-  height: 460px;
-  margin-top: -396px;
-  float: left;
+    width: 340px;
+    background-color: whitesmoke;
+    height: 410px;
+    margin-left: 33px;
+    margin-top: -396px;
+    float: left;
 }
 #sidmeny3 {
-  width: 350px;
-  height: 480px;
-  margin-top: -415px;
-  float: left;
+    width: 340px;
+    height: 410px;
+    margin-left: 746px;
+    background-color: whitesmoke;
+    margin-top: -415px;
+    float: left;
 }
 #sidmeny4 {
   width: 350px;
   height: 400px;
-  margin-top:-90px;
+  margin-top:-21px;
   float: left;
 }
 #sidmeny5 {
