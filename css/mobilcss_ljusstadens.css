@@ -67,10 +67,17 @@ a {
     margin-bottom: -156px;
     width: 350px;
     height: auto;
-    margin-top: 145px;
+    margin-top: 185px;
     margin-left: 0px;
     margin-right: 0px;
+    border: 0px;
+    border-style: none;
+    border-color: none;
     float: left;
+}
+
+#container-klass li {
+  margin-left:15px;
 }
 
 
