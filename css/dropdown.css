@@ -113,7 +113,9 @@ input#menu-btn
 }
 
 #container-klass li {
-  margin-left:5px;
+  margin-left:15px;
+  margin-right:0px;
+  background-color: none;
 }
 
 
