@@ -73,6 +73,7 @@ input#menu-btn
 #sidmeny3 {
   width: 350px;
   height: 480px;
+  margin-top: -18px;
   float: left;
 }
 #sidmeny4 {
