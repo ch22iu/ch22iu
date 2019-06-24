@@ -56,44 +56,46 @@ input#menu-btn
 
 #menyn {
   width: 100%;
-  height: 2524px;
+  height: 1524px;
   float: left;
 }
 
 #sidmeny1 {
-  width: 250px;
+  width: 350px;
   height: 460px;
   float: left;
 }
 #sidmeny2 {
-  width: 250px;
+  width: 350px;
   height: 460px;
   float: left;
 }
 #sidmeny3 {
-  width: 250px;
+  width: 350px;
   height: 480px;
   float: left;
 }
 #sidmeny4 {
-  position: relative;
   width: 350px;
   height: 400px;
   float: left;
 }
 #sidmeny5 {
-  position: relative;
   width: 350px;
   height: 400px;
   float: left;
 }
 #sidmeny6 {
-  position: relative;
   width: 350px;
   height: 400px;
   float: left;
 }
 
+#container-klass {
+  width: 100%;
+  height: 950px;
+  float: left;
+}
 
 
 #underribbon
