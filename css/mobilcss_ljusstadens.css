@@ -75,48 +75,46 @@ a {
 
 
 #Klass1 {
-  background-image: url("https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png");
-  background-width: 100%;
-  background-height: 100%;
-  background-repeat: no-repeat;
-  color: white;
-  padding-top: 18px;
-  padding-left: 122px;
-  padding-right: 197px;
-  padding-bottom: 60px;
+    background-image: url(https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png);
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 18px;
+    padding-left: 94px;
+    padding-right: 155px;
+    padding-bottom: 60px;
+    float: left;
 }
 #Klass2 {
-  background-image: url("https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png");
-  background-width: 100%;
-  background-height: 100%;
-  background-repeat: no-repeat;
-  color: white;
-  padding-top: 18px;
-  padding-left: 122px;
-  padding-right: 197px;
-  padding-bottom: 60px;
+    background-image: url(https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png);
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 18px;
+    padding-left: 94px;
+    padding-right: 155px;
+    padding-bottom: 60px;
+    float: left;
 }
 #Klass3 {
-  background-image: url("https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png");
-  background-width: 100%;
-  background-height: 100%;
-  background-repeat: no-repeat;
-  color: white;
-  padding-top: 18px;
-  padding-left: 122px;
-  padding-right: 197px;
-  padding-bottom: 60px;
+    background-image: url(https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png);
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 18px;
+    padding-left: 94px;
+    padding-right: 155px;
+    padding-bottom: 60px;
+    float: left;
 
 }
 
 #Special {
-  background-image: url("https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png");
-  background-repeat: no-repeat;
-  color: white;
-  padding-top: 10px;
-  padding-left: 85px;
-  padding-right: 65px;
-  padding-bottom: 80px;
+    background-image: url(https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png);
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 18px;
+    padding-left: 94px;
+    padding-right: 155px;
+    padding-bottom: 60px;
+    float: left;
 }
 
 #Absoluta {
