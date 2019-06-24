@@ -63,11 +63,13 @@ input#menu-btn
 #sidmeny1 {
   width: 350px;
   height: 460px;
+    margin-top: -282px;
   float: left;
 }
 #sidmeny2 {
   width: 350px;
   height: 460px;
+    margin-top: -282px;
   float: left;
 }
 #sidmeny3 {
@@ -84,6 +86,7 @@ input#menu-btn
 #sidmeny5 {
   width: 350px;
   height: 400px;
+  margin-top: -24px;
   float: left;
 }
 #sidmeny6 {
