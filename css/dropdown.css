@@ -55,12 +55,47 @@ input#menu-btn
 }
 
 #menyn {
+  width: 650px;
+  height: 400px;
+  float: left;
+}
+
+#sidmeny1 {
+  width: 400px;
+  height: 400px;
+  float: left;
+}
+#sidmeny2 {
   position: relative;
   width: 350px;
   height: 400px;
   float: left;
-  background-color: #C6C5C5;
 }
+#sidmeny3 {
+  position: relative;
+  width: 350px;
+  height: 400px;
+  float: left;
+}
+#sidmeny4 {
+  position: relative;
+  width: 350px;
+  height: 400px;
+  float: left;
+}
+#sidmeny5 {
+  position: relative;
+  width: 350px;
+  height: 400px;
+  float: left;
+}
+#sidmeny6 {
+  position: relative;
+  width: 350px;
+  height: 400px;
+  float: left;
+}
+
 
 
 #underribbon
