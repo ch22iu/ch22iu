@@ -58,7 +58,6 @@ input#menu-btn
   position: relative;
   width: 350px;
   height: 400px;
-  border: 3px solid red;
   float: left;
   background-color: #C6C5C5;
 }
