@@ -118,33 +118,37 @@ a {
 }
 
 #Absoluta {
-  background-image: url("https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png");
-  background-width: 100%;
-  background-height: 100%;
-  background-repeat: no-repeat;
-  color: white;
-  padding: 20px 120px 40px 75px;
+    background-image: url(https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png);
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 18px;
+    padding-left: 94px;
+    padding-right: 155px;
+    padding-bottom: 60px;
+    float: left;
 }
 
 #Rullar1 {
-  background-image: url("https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png");
-  background-width: 100%;
-  background-height: 100%;
-  background-repeat: no-repeat;
-  color: white;
-  padding: 4px 145px 4px 80px;
+    background-image: url(https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png);
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 18px;
+    padding-left: 94px;
+    padding-right: 155px;
+    padding-bottom: 60px;
+    float: left;
 }
 
 
 #Amerikanska {
-  background-image: url("https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png");
-  background-repeat: no-repeat;
-  color: white;
-  padding-top: 18px;
-  padding-left: 65px;
-  padding-right: 109px;
-  padding-bottom: 60px;
-  font-size:20px;
+    background-image: url(https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png);
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 18px;
+    padding-left: 94px;
+    padding-right: 155px;
+    padding-bottom: 60px;
+    float: left;
 }
 
 #Falafel {
@@ -159,25 +163,25 @@ a {
 }
 
 #Hamburgare {
-  background-image: url("https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png");
-  background-repeat: no-repeat;
-  color: white;
-  padding-top: 18px;
-  padding-left: 65px;
-  padding-right: 55px;
-  padding-bottom: 60px;
-  font-size:20px;
+    background-image: url(https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png);
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 18px;
+    padding-left: 94px;
+    padding-right: 155px;
+    padding-bottom: 60px;
+    float: left;
 }
 
 #Sallader {
-  background-image: url("https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png");
-  background-repeat: no-repeat;
-  color: white;
-  padding-top: 18px;
-  padding-left: 65px;
-  padding-right: 55px;
-  padding-bottom: 60px;
-  font-size:20px;
+    background-image: url(https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png);
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 18px;
+    padding-left: 94px;
+    padding-right: 155px;
+    padding-bottom: 60px;
+    float: left;
 }
 
 
