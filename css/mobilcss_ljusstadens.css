@@ -479,20 +479,25 @@ a {
 
 .mobilcss .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,
 .mobilcss .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
-    top: 345px;
-    width: 35px;
+    top: 350px;
+    width: 27px;
     height: 5px;
     z-index: 99999;
 }
 
 
 .mobilcss .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
-    top: 345px;
-    width: 35px;
+    top: 350px;
+    width: 27px;
     height: 5px;
     z-index: 99999;
 }
 
+
+ul.menu {
+  border:1px solid black;
+
+}
 
 
 /* 48em = 768px */
