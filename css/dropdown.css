@@ -119,6 +119,9 @@ input#menu-btn
 #container-klass:target {
     width: 100%;
 }
+#container-klass:hover {
+    width: 100%;
+}
 
 
 #container-klass li {
