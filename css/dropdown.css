@@ -63,7 +63,7 @@ input#menu-btn
 #sidmeny1 {
     background-color: whitesmoke;
     width: 330px;
-    height: 409px;
+    height: 430px;
     margin-top: -378px;
     margin-left: 0px;
     float: left;
@@ -73,7 +73,7 @@ input#menu-btn
 #sidmeny2 {
     width: 330px;
     background-color: whitesmoke;
-    height: 410px;
+    height: 430px;
     margin-left: 0px;
     margin-top: -396px;
     float: left;
@@ -82,7 +82,7 @@ input#menu-btn
 }
 #sidmeny3 {
     width: 330px;
-    height: 410px;
+    height: 430px;
     margin-left: 0px;
     background-color: whitesmoke;
     margin-top: -415px;
@@ -92,7 +92,7 @@ input#menu-btn
 }
 #sidmeny4 {
   width: 330px;
-  height: 400px;
+  height: 430px;
   margin-top:-1px;
   margin-left: 0px;
   background-color: whitesmoke;
@@ -112,7 +112,7 @@ input#menu-btn
 }
 #sidmeny6 {
   width: 330px;
-  height: 400px;
+  height: 430px;
   margin-top:-57px;
   background-color: whitesmoke;
   float: left;
