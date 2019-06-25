@@ -54,10 +54,19 @@ input#menu-btn
 	display:none;
 }
 
-
 :target {
-  animation: highlight 3s ease;  
-  transform: translateX(20px);     
+  animation: highlight 1s ease;  
+  transform: translateX(3px);     
+}
+@keyframes highlight {
+  0% { border-left-color: red; }
+  100% { border-left-color: white; }
+}
+#menysida > div {
+  border-left: 5px solid white;
+  transition: all 0.5s ease;     
+  padding-right: 5px;
+  margin-left: -3px;    
 }
 
 
