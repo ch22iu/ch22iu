@@ -438,7 +438,7 @@ a {
 
 .mobilcss .menu-icon .navicon:before,
 .mobilcss .menu-icon .navicon:after {
-  background: #1f0000;
+  background: black;
   content: '';
   display: block;
   height: 100%;
