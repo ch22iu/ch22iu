@@ -90,15 +90,12 @@ a {
 }
 
 #container-klass {
-    margin-bottom: 10px;
-    width: 315px;
+    width: 332px;
     height: auto;
-    margin-top: 10px;
+    background-color: #f9f9f9;
+    margin-top: -80px;
     margin-left: 0px;
     margin-right: 0px;
-    border: 0px;
-    border-style: none;
-    border-color: none;
     float: left;
     border: 0px;
     border-radius: 5px 5px 5px 5px;
