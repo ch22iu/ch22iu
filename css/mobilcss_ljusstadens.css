@@ -26,7 +26,7 @@ a {
     float: left;
     border: 0px;
     border-radius: 5px 5px 5px 5px;
-    box-shadow: 5px 35px 35px #e1e1e1;
+    box-shadow: 0px 0px 20px 4px #dedede;
 }
 #sidmeny2 {
     width: 332px;
@@ -38,7 +38,7 @@ a {
     float: left;
     border: 0px;
     border-radius: 5px 5px 5px 5px;
-    box-shadow: 5px 35px 35px #e1e1e1;
+    box-shadow: 0px 0px 20px 4px #dedede;
 }
 #sidmeny3 {
     width: 332px;
@@ -50,7 +50,7 @@ a {
     float: left;
     border: 0px;
     border-radius: 5px 5px 5px 5px;
-    box-shadow: 5px 35px 35px #e1e1e1;
+    box-shadow: 0px 0px 20px 4px #dedede;
 }
 #sidmeny4 {
     width: 332px;
@@ -62,7 +62,7 @@ a {
     float: left;
     border: 0px;
     border-radius: 5px 5px 5px 5px;
-    box-shadow: 5px 35px 35px #e1e1e1;
+    box-shadow: 0px 0px 20px 4px #dedede;
 }
 #sidmeny5 {
     width: 332px;
@@ -74,7 +74,7 @@ a {
     float: left;
     border: 0px;
     border-radius: 5px 5px 5px 5px;
-    box-shadow: 5px 35px 35px #e1e1e1;
+    box-shadow: 0px 0px 20px 4px #dedede;
 }
 #sidmeny6 {
     width: 332px;
@@ -86,7 +86,7 @@ a {
     float: left;
     border: 0px;
     border-radius: 5px 5px 5px 5px;
-    box-shadow: 5px 35px 35px #e1e1e1;
+    box-shadow: 0px 0px 20px 4px #dedede;
 }
 
 #container-klass {
@@ -102,7 +102,7 @@ a {
     float: left;
     border: 0px;
     border-radius: 5px 5px 5px 5px;
-    box-shadow: 5px 35px 35px #e1e1e1;
+    box-shadow: 0px 0px 20px 4px #dedede;
 }
 #container-klass1 {
     width: 332px;
@@ -114,7 +114,7 @@ a {
     float: left;
     border: 0px;
     border-radius: 5px 5px 5px 5px;
-    box-shadow: 5px 35px 35px #e1e1e1;
+    box-shadow: 0px 0px 20px 4px #dedede;
 }
 #container-klass2 {
     width: 332px;
@@ -126,7 +126,7 @@ a {
     float: left;
     border: 0px;
     border-radius: 5px 5px 5px 5px;
-    box-shadow: 5px 35px 35px #e1e1e1;
+    box-shadow: 0px 0px 20px 4px #dedede;
 }
 #container-klass3 {
     width: 332px;
@@ -138,7 +138,7 @@ a {
     float: left;
     border: 0px;
     border-radius: 5px 5px 5px 5px;
-    box-shadow: 5px 35px 35px #e1e1e1;
+    box-shadow: 0px 0px 20px 4px #dedede;
 }
 
 #container-klass1:hover {
