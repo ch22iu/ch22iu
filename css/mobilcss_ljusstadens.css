@@ -383,16 +383,16 @@ a {
     font-size: 13px;
     background-color: rgb(69, 69, 69);
     width: 350px;
-    height: 29px;
-    letter-spacing: 0px;
-    text-align: center;
-    line-height: 1em;
+    height: 26px;
+    letter-spacing: 1px;
+    /* text-align: center; */
+    line-height: 14px;
     font-family: Montserrat, Arial, Helvetica, sans-serif;
 }
 
 .mobilcss li a:hover,
 .mobilcss .menu-btn:hover {
-    height: 29px;
+    height: 26px;
     color: #fff;
     background: #613131;
 }
