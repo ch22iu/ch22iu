@@ -102,16 +102,16 @@ a {
     float: left;
 }
 #container-klass1 {
-    margin-bottom: -156px;
-    width: 315px;
-    height: auto;
-    margin-top: 185px;
+    width: 332px;
+    height: 400px;
+    background-color: #f9f9f9;
+    margin-top: 10px;
     margin-left: 0px;
     margin-right: 0px;
-    border: 0px;
-    border-style: none;
-    border-color: none;
     float: left;
+    border: 2px groove #f9f9f9;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 5px 35px 35px #888888;
 }
 #container-klass2 {
     margin-bottom: -156px;
