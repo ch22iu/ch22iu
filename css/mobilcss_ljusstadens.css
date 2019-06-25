@@ -357,8 +357,10 @@ a {
   box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
   position: fixed;
   display: block;
+  margin-top: 39px;
   width: 100%;
   left:0px;
+  height: 50px;
   z-index: 3;
 }
 
@@ -418,10 +420,11 @@ a {
   cursor: pointer;
   display: inline-block;
   float: right;
-  padding: 28px 20px;
+  padding: 3px 26px;
+  margin-top: -15px;
   position: relative;
   user-select: none;
-  height: 96px;
+  height: 31px;
 }
 
 .mobilcss .menu-icon .navicon {
