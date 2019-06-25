@@ -24,9 +24,9 @@ a {
     margin-left: 0px;
     margin-right: 0px;
     float: left;
-    border: 2px groove #f9f9f9;
+    border: 0px;
     border-radius: 5px 5px 5px 5px;
-    box-shadow: 5px 35px 35px #888888;
+    box-shadow: 5px 35px 35px #e1e1e1;
 }
 #sidmeny2 {
     width: 332px;
@@ -36,9 +36,9 @@ a {
     margin-left: 0px;
     margin-right: 0px;
     float: left;
-    border: 2px groove #f9f9f9;
+    border: 0px;
     border-radius: 5px 5px 5px 5px;
-    box-shadow: 5px 35px 35px #888888;
+    box-shadow: 5px 35px 35px #e1e1e1;
 }
 #sidmeny3 {
     width: 332px;
@@ -48,9 +48,9 @@ a {
     margin-left: 0px;
     margin-right: 0px;
     float: left;
-    border: 2px groove #f9f9f9;
+    border: 0px;
     border-radius: 5px 5px 5px 5px;
-    box-shadow: 5px 35px 35px #888888;
+    box-shadow: 5px 35px 35px #e1e1e1;
 }
 #sidmeny4 {
     width: 332px;
@@ -60,9 +60,9 @@ a {
     margin-left: 0px;
     margin-right: 0px;
     float: left;
-    border: 2px groove #f9f9f9;
+    border: 0px;
     border-radius: 5px 5px 5px 5px;
-    box-shadow: 5px 35px 35px #888888;
+    box-shadow: 5px 35px 35px #e1e1e1;
 }
 #sidmeny5 {
     width: 332px;
@@ -72,9 +72,9 @@ a {
     margin-left: 0px;
     margin-right: 0px;
     float: left;
-    border: 2px groove #f9f9f9;
+    border: 0px;
     border-radius: 5px 5px 5px 5px;
-    box-shadow: 5px 35px 35px #888888;
+    box-shadow: 5px 35px 35px #e1e1e1;
 }
 #sidmeny6 {
     width: 332px;
@@ -84,9 +84,9 @@ a {
     margin-left: 0px;
     margin-right: 0px;
     float: left;
-    border: 2px groove #f9f9f9;
+    border: 0px;
     border-radius: 5px 5px 5px 5px;
-    box-shadow: 5px 35px 35px #888888;
+    box-shadow: 5px 35px 35px #e1e1e1;
 }
 
 #container-klass {
@@ -100,6 +100,9 @@ a {
     border-style: none;
     border-color: none;
     float: left;
+    border: 0px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 5px 35px 35px #e1e1e1;
 }
 #container-klass1 {
     width: 332px;
@@ -109,9 +112,9 @@ a {
     margin-left: 0px;
     margin-right: 0px;
     float: left;
-    border: 2px groove #f9f9f9;
+    border: 0px;
     border-radius: 5px 5px 5px 5px;
-    box-shadow: 5px 35px 35px #888888;
+    box-shadow: 5px 35px 35px #e1e1e1;
 }
 #container-klass2 {
     width: 332px;
@@ -121,9 +124,9 @@ a {
     margin-left: 0px;
     margin-right: 0px;
     float: left;
-    border: 2px groove #f9f9f9;
+    border: 0px;
     border-radius: 5px 5px 5px 5px;
-    box-shadow: 5px 35px 35px #888888;
+    box-shadow: 5px 35px 35px #e1e1e1;
 }
 #container-klass3 {
     width: 332px;
@@ -133,9 +136,9 @@ a {
     margin-left: 0px;
     margin-right: 0px;
     float: left;
-    border: 2px groove #f9f9f9;
+    border: 0px;
     border-radius: 5px 5px 5px 5px;
-    box-shadow: 5px 35px 35px #888888;
+    box-shadow: 5px 35px 35px #e1e1e1;
 }
 
 #container-klass1:hover {
