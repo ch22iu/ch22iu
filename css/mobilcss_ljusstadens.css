@@ -92,7 +92,7 @@ a {
 #container-klass {
     width: 332px;
     height: auto;
-    background-color: white;
+    background-color: none;
     margin-top: 24px;
     margin-left: 0px;
     margin-right: 0px;
@@ -104,7 +104,7 @@ a {
 #container-klass1 {
     width: 332px;
     height: auto;
-    background-color: white;
+    background-color: none;
     margin-top: -80px;
     margin-left: 0px;
     margin-right: 0px;
@@ -116,7 +116,7 @@ a {
 #container-klass2 {
     width: 332px;
     height: auto;
-    background-color: white;
+    background-color: none;
     margin-top: 25px;
     margin-left: 0px;
     margin-right: 0px;
@@ -128,7 +128,7 @@ a {
 #container-klass3 {
     width: 332px;
     height: auto;
-    background-color: white;
+    background-color: none;
     margin-top: 45px;
     margin-left: 0px;
     margin-right: 0px;
@@ -192,18 +192,22 @@ a {
 
 #container-klass li {
     margin-left: 32px;
+    background-color: white;
     
 }
 #container-klass1 li {
     margin-left: 32px;
+    background-color: white;
     
 }
 #container-klass2 li {
     margin-left: 32px;
+    background-color: white;
     
 }
 #container-klass3 li {
     margin-left: 32px;
+    background-color: white;
     
 }
 
