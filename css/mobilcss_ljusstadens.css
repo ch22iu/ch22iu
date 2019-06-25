@@ -466,12 +466,12 @@ a {
 
 .mobilcss .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,
 .mobilcss .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
-  top: 369px;
+  top: 360px;
 }
 
 
 .mobilcss .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
-  top: 369px;
+  top: 360px;
 }
 
 /* 48em = 768px */
