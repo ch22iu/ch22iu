@@ -11,15 +11,25 @@ a {
 }
 
 #container-klass:hover {
-    width: 100%;
+    width: 350px;
     z-index: 99990;
-    position: absolute;
-    left: -24px;
-    top: 11%;
+    position: none;
+    left: 0;
+    top: 0;
+    float: left;
     margin-top: 45px;
     background-color: white;
     animation: highlight 1s ease;
     transform: translateX(20px);
+    margin-bottom: -156px;
+    width: 315px;
+    height: auto;
+    margin-top: 185px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border: 0px;
+    border-style: none;
+    border-color: none;
 }
 
 
