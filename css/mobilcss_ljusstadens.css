@@ -495,8 +495,7 @@ a {
 
 
 ul.menu {
-  border:1px solid black;
-
+  box-shadow: -2px -3px 20px 6px #e1e1e1;
 }
 
 
