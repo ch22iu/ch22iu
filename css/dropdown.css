@@ -111,8 +111,58 @@ input#menu-btn
     margin-right: 0px;
     float: left;
 }
+#container-klass1 {
+    width: 350px;
+    height: auto;
+    margin-top: 55px;
+    margin-left: 0px;
+    border: 2px solid #e6e6e6;
+    margin-right: 0px;
+    float: left;
+}
+#container-klass2 {
+    width: 350px;
+    height: auto;
+    margin-top: 55px;
+    margin-left: 0px;
+    border: 2px solid #e6e6e6;
+    margin-right: 0px;
+    float: left;
+}
+#container-klass3 {
+    width: 350px;
+    height: auto;
+    margin-top: 55px;
+    margin-left: 0px;
+    border: 2px solid #e6e6e6;
+    margin-right: 0px;
+    float: left;
+}
 
-#container-klass:hover {
+
+#container-klass1:hover {
+    width: 100%;
+    z-index: 99990;
+    position: absolute;
+    left: -24px;
+    top: 11%;
+    margin-top: 45px;
+    background-color: white;
+    animation: highlight 1s ease;
+    transform: translateX(20px);
+}
+#container-klass2:hover {
+    width: 100%;
+    z-index: 99990;
+    position: absolute;
+    left: -24px;
+    top: 11%;
+    margin-top: 45px;
+    background-color: white;
+    animation: highlight 1s ease;
+    transform: translateX(20px);
+}
+#container-klass3:hover {
     width: 100%;
     z-index: 99990;
     position: absolute;
