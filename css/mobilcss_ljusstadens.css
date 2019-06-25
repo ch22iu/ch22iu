@@ -479,7 +479,7 @@ a {
 
 .mobilcss .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,
 .mobilcss .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
-    top: 350px;
+    top: 351px;
     width: 27px;
     height: 5px;
     z-index: 99999;
@@ -487,7 +487,7 @@ a {
 
 
 .mobilcss .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
-    top: 350px;
+    top: 351px;
     width: 27px;
     height: 5px;
     z-index: 99999;
