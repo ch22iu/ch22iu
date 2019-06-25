@@ -98,6 +98,42 @@ a {
     border-color: none;
     float: left;
 }
+#container-klass1 {
+    margin-bottom: -156px;
+    width: 315px;
+    height: auto;
+    margin-top: 185px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border: 0px;
+    border-style: none;
+    border-color: none;
+    float: left;
+}
+#container-klass2 {
+    margin-bottom: -156px;
+    width: 315px;
+    height: auto;
+    margin-top: 185px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border: 0px;
+    border-style: none;
+    border-color: none;
+    float: left;
+}
+#container-klass3 {
+    margin-bottom: -156px;
+    width: 315px;
+    height: auto;
+    margin-top: 185px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border: 0px;
+    border-style: none;
+    border-color: none;
+    float: left;
+}
 
 #container-klass li {
     margin-left: 5px;
