@@ -112,6 +112,11 @@ input#menu-btn
     float: left;
 }
 
+#container-klass:active {
+    width: 100%;
+}
+
+
 #container-klass li {
   margin-left:15px;
   margin-right:0px;
