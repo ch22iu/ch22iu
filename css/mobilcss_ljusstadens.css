@@ -116,6 +116,9 @@ a {
     margin-bottom: -156px;
     width: 315px;
     height: auto;
+    left: none;
+    top: none;
+    position: none;
     margin-top: 185px;
     margin-left: 0px;
     margin-right: 0px;
@@ -123,12 +126,33 @@ a {
     border-style: none;
     border-color: none;
     float: left;
-    position: none;
+    width: 100%;
+    z-index: 99990;
+    position: absolute;
+    left: -24px;
+    top: 11%;
+    margin-top: 45px;
+    background-color: white;
+    animation: highlight 1s ease;
+    transform: translateX(20px);
+    margin-bottom: -156px;
+    width: 315px;
+    height: auto;
+    margin-top: 185px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border: 0px;
+    border-style: none;
+    border-color: none;
+    float: left;
 }
 #container-klass2:hover {
     margin-bottom: -156px;
     width: 315px;
     height: auto;
+    left: none;
+    top: none;
+    position: none;
     margin-top: 185px;
     margin-left: 0px;
     margin-right: 0px;
@@ -136,9 +160,15 @@ a {
     border-style: none;
     border-color: none;
     float: left;
-    position: none;
-}
-#container-klass3:hover {
+    width: 100%;
+    z-index: 99990;
+    position: absolute;
+    left: -24px;
+    top: 11%;
+    margin-top: 45px;
+    background-color: white;
+    animation: highlight 1s ease;
+    transform: translateX(20px);
     margin-bottom: -156px;
     width: 315px;
     height: auto;
@@ -149,7 +179,40 @@ a {
     border-style: none;
     border-color: none;
     float: left;
+}
+#container-klass3:hover {
+    margin-bottom: -156px;
+    width: 315px;
+    height: auto;
+    left: none;
+    top: none;
     position: none;
+    margin-top: 185px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border: 0px;
+    border-style: none;
+    border-color: none;
+    float: left;
+    width: 100%;
+    z-index: 99990;
+    position: absolute;
+    left: -24px;
+    top: 11%;
+    margin-top: 45px;
+    background-color: white;
+    animation: highlight 1s ease;
+    transform: translateX(20px);
+    margin-bottom: -156px;
+    width: 315px;
+    height: auto;
+    margin-top: 185px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border: 0px;
+    border-style: none;
+    border-color: none;
+    float: left;
 }
 
 
