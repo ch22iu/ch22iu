@@ -164,7 +164,7 @@ input#menu-btn
     position: absolute;
     left: -24px;
     top: 11%;
-    margin-top: 132px;
+    margin-top: 112px;
     background-color: white;
     animation: highlight 1s ease;
     transform: translateX(20px);
@@ -175,7 +175,7 @@ input#menu-btn
     position: absolute;
     left: -24px;
     top: 11%;
-    margin-top: 45px;
+    margin-top: 14px;
     background-color: white;
     animation: highlight 1s ease;
     transform: translateX(20px);
@@ -186,7 +186,7 @@ input#menu-btn
     position: absolute;
     left: -24px;
     top: 11%;
-    margin-top: 45px;
+    margin-top: 14px;
     background-color: white;
     animation: highlight 1s ease;
     transform: translateX(20px);
