@@ -62,13 +62,13 @@ input#menu-btn
 
 #sidmeny1 {
     background-color: whitesmoke;
-    width: 343px;
+    width: 330px;
     height: 409px;
     margin-top: -378px;
     float: left;
 }
 #sidmeny2 {
-    width: 340px;
+    width: 330px;
     background-color: whitesmoke;
     height: 410px;
     margin-left: 33px;
@@ -76,12 +76,12 @@ input#menu-btn
     float: left;
 }
 #sidmeny3 {
-    width: 340px;
+    width: 330px;
     height: 410px;
     margin-left: 0px;
     background-color: whitesmoke;
     margin-top: -415px;
-    float: right;
+    float: left;
 }
 #sidmeny4 {
   width: 350px;
