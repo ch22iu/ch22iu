@@ -92,7 +92,7 @@ a {
 #container-klass {
     width: 332px;
     height: auto;
-    background-color: none;
+    background-color: white;
     margin-top: 24px;
     margin-left: 0px;
     margin-right: 0px;
@@ -104,7 +104,7 @@ a {
 #container-klass1 {
     width: 332px;
     height: auto;
-    background-color: none;
+    background-color: white;
     margin-top: -80px;
     margin-left: 0px;
     margin-right: 0px;
@@ -116,7 +116,7 @@ a {
 #container-klass2 {
     width: 332px;
     height: auto;
-    background-color: none;
+    background-color: white;
     margin-top: 25px;
     margin-left: 0px;
     margin-right: 0px;
@@ -128,7 +128,7 @@ a {
 #container-klass3 {
     width: 332px;
     height: auto;
-    background-color: none;
+    background-color: white;
     margin-top: 45px;
     margin-left: 0px;
     margin-right: 0px;
