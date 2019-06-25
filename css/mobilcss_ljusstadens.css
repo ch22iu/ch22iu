@@ -392,7 +392,6 @@ a {
 
 .mobilcss li a:hover,
 .mobilcss .menu-btn:hover {
-    padding: 0px 0px;
     height: 35px;
     color: #fff;
     background: #613131;
