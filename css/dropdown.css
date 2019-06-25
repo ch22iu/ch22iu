@@ -65,15 +65,20 @@ input#menu-btn
     width: 330px;
     height: 409px;
     margin-top: -378px;
+    margin-left: 0px;
     float: left;
+    border-radius: 5px 1px 1px 5px;
+    box-shadow: 0px 3px 19px 9px #e1e1e1;
 }
 #sidmeny2 {
     width: 330px;
     background-color: whitesmoke;
     height: 410px;
-    margin-left: 33px;
+    margin-left: 0px;
     margin-top: -396px;
     float: left;
+    border-radius: 5px 1px 1px 5px;
+    box-shadow: 0px 3px 19px 9px #e1e1e1;
 }
 #sidmeny3 {
     width: 330px;
@@ -82,27 +87,37 @@ input#menu-btn
     background-color: whitesmoke;
     margin-top: -415px;
     float: left;
+    border-radius: 5px 1px 1px 5px;
+    box-shadow: 0px 3px 19px 9px #e1e1e1;
 }
 #sidmeny4 {
-  width: 350px;
+  width: 330px;
   height: 400px;
   margin-top:-1px;
+  margin-left: 0px;
   background-color: whitesmoke;
   float: left;
+    border-radius: 5px 1px 1px 5px;
+    box-shadow: 0px 3px 19px 9px #e1e1e1;
 }
 #sidmeny5 {
-  width: 350px;
+  width: 330px;
   height: 430px;
   margin-top: -39px;
+  margin-left: 0px;
   background-color: whitesmoke;
   float: left;
+    border-radius: 5px 1px 1px 5px;
+    box-shadow: 0px 3px 19px 9px #e1e1e1;
 }
 #sidmeny6 {
-  width: 350px;
+  width: 330px;
   height: 400px;
   margin-top:-57px;
   background-color: whitesmoke;
   float: left;
+  border-radius: 5px 1px 1px 5px;
+  box-shadow: 0px 3px 19px 9px #e1e1e1;
 }
 
 #container-klass {
