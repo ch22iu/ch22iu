@@ -10,8 +10,16 @@ a {
   color: #000;
 }
 
-#container-klass:active {
-    width: 350px;
+#container-klass:hover {
+    width: 100%;
+    z-index: 99990;
+    position: absolute;
+    left: -24px;
+    top: 11%;
+    margin-top: 45px;
+    background-color: white;
+    animation: highlight 1s ease;
+    transform: translateX(20px);
 }
 
 
