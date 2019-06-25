@@ -117,7 +117,7 @@ input#menu-btn
 }
 
 #container-klass:target {
-    width: 950px;
+    width: 100%;
 }
 
 
