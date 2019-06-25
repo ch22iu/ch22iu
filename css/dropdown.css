@@ -54,34 +54,6 @@ input#menu-btn
 	display:none;
 }
 
-:target {
-  animation: highlight 1s ease;  
-  transform: translateX(3px);
-  border: 1px groove red;     
-}
-@keyframes highlight {
-  0% { border-left-color: red; }
-  100% { border-left-color: white; }
-}
-
-#menyn:target {
-  animation: highlight 1s ease;  
-  transform: translateX(3px);
-  border: 1px groove red;     
-}
-#sidmeny1:target {
-  animation: highlight 1s ease;  
-  transform: translateX(3px);
-  border: 1px groove red;  
-}
-
-#K1:target {
-  animation: highlight 1s ease;  
-  transform: translateX(3px);
-  border: 1px groove red;  
-}
-
-
 #menyn {
   width: 100%;
   height: auto;
