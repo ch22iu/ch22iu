@@ -140,7 +140,7 @@ a {
 
 #container-klass1:hover {
     margin-bottom: 0px;
-    margin-top: 410px;
+    margin-top: -80px;
     width: 100%;
     height: 100%;
     left: 0;
@@ -158,7 +158,7 @@ a {
 
 #container-klass2:hover {
     margin-bottom: 0px;
-    margin-top: 45px;
+    margin-top: 25px;
     width: 100%;
     height: 100%;
     left: 0;
