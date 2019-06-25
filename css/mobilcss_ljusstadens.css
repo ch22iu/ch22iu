@@ -17,50 +17,58 @@ a {
 }
 
 #sidmeny1 {
-  width: 350px;
-  height: 890px;
-  margin-top: -301px;
-  margin-left: -7px;
-  float: left;
+    width: 350px;
+    height: 400px;
+    background-color: orange;
+    margin-top: 10px;
+    margin-left: -7px;
+    margin-right: 0px;
+    float: left;
 }
 #sidmeny2 {
-  width: 350px;
-  height: 760px;
-  margin-top: -566px;
-  margin-left: -7px;
-  margin-right: 0px;
-  float: left;
+    width: 350px;
+    height: 400px;
+    background-color: orange;
+    margin-top: 10px;
+    margin-left: -7px;
+    margin-right: 0px;
+    float: left;
 }
 #sidmeny3 {
-  width: 350px;
-  height: 454px;
-  margin-top: -333px;
-  margin-left: -7px;
-  margin-right: 0px;
-  float: left;
+    width: 350px;
+    height: 400px;
+    background-color: orange;
+    margin-top: 10px;
+    margin-left: -7px;
+    margin-right: 0px;
+    float: left;
 }
 #sidmeny4 {
-  width: 350px;
-  height: 422px;
-  margin-left: -7px;
-  margin-right: 0px;
-  float: left;
+    width: 350px;
+    height: 400px;
+    background-color: orange;
+    margin-top: 10px;
+    margin-left: -7px;
+    margin-right: 0px;
+    float: left;
 }
 #sidmeny5 {
-  width: 350px;
-  height: 489px;
-  margin-top: -31px;
-  margin-left: -7px;
-  margin-right: 0px;
-  float: left;
+    width: 350px;
+    height: 400px;
+    background-color: orange;
+    margin-top: 10px;
+    margin-left: -7px;
+    margin-right: 0px;
+    float: left;
 }
 #sidmeny6 {
-  width: 350px;
-  height: 357px;
-  margin-top: -2px;
-  margin-left: -7px;
-  margin-right: 0px;
-  float: left;
+    width: 350px;
+    height: 400px;
+    background-color: orange;
+    margin-top: 10px;
+    margin-left: -7px;
+    margin-right: 0px;
+    float: left;
 }
 
 #container-klass {
