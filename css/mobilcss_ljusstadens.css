@@ -438,13 +438,14 @@ a {
 
 .mobilcss .menu-icon .navicon:before,
 .mobilcss .menu-icon .navicon:after {
-  background: #1f0000;
-  content: '';
-  display: block;
-  height: 100%;
-  position: absolute;
-  transition: all .2s ease-out;
-  width: 100%;
+    background: rgba(0,0,0,0.9);
+    display: block;
+    height: 4px;
+    padding-bottom: 4px;
+    margin-top: 4px;
+    position: relative;
+    transition: background .2s ease-out;
+    width: 27px;
 }
 
 .mobilcss .menu-icon .navicon:before {
@@ -492,6 +493,8 @@ a {
     height: 5px;
     z-index: 99999;
 }
+
+
 
 /* 48em = 768px */
 
