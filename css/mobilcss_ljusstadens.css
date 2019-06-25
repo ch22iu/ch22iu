@@ -374,7 +374,7 @@ a {
     letter-spacing: 4px;
     text-align: center;
     line-height: 1em;
-    font-family: cursive;
+    font-family: Montserrat, Arial, Helvetica, sans-serif;
 }
 
 .mobilcss li a:hover,
@@ -466,7 +466,7 @@ a {
 
 .mobilcss .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,
 .mobilcss .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
-  top: 0;
+  top: 369px;
 }
 
 
