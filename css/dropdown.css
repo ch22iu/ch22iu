@@ -87,18 +87,21 @@ input#menu-btn
   width: 350px;
   height: 400px;
   margin-top:-1px;
+  background-color: whitesmoke;
   float: left;
 }
 #sidmeny5 {
   width: 350px;
   height: 430px;
   margin-top: -39px;
+  background-color: whitesmoke;
   float: left;
 }
 #sidmeny6 {
   width: 350px;
   height: 400px;
   margin-top:-57px;
+  background-color: whitesmoke;
   float: left;
 }
 
