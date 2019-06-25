@@ -116,6 +116,10 @@ input#menu-btn
     width: 100%;
 }
 
+#container-klass:target {
+    width: 950px;
+}
+
 
 #container-klass li {
   margin-left:15px;
