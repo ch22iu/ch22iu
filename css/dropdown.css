@@ -102,7 +102,7 @@ input#menu-btn
   height: 400px;
   margin-top:-57px;
   background-color: whitesmoke;
-  float: right;
+  float: left;
 }
 
 #container-klass {
