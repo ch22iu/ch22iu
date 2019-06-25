@@ -376,14 +376,15 @@ a {
 
 .mobilcss li a {
     display: block;
-    padding: 0px 0px;
-    border: 0px solid #e1e1e1;
-    color: rgba(0,0,0,0.9);
+    border: 1px solid #4d4d4d;
+    border-bottom-color: #333333 !important;
+    color: rgb(241, 241, 241);
     text-decoration: none;
-    font-size: 30px;
-    width: 330px;
-    height: 23px;
-    letter-spacing: 4px;
+    font-size: 13px;
+    background-color: rgb(69, 69, 69);
+    width: 350px;
+    height: 29px;
+    letter-spacing: 0px;
     text-align: center;
     line-height: 1em;
     font-family: Montserrat, Arial, Helvetica, sans-serif;
