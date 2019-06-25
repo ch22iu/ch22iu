@@ -358,13 +358,14 @@ a {
   display: block;
   overflow: hidden;
   list-style: none;
+  font-size: 25px;
   background-color: #fff;
 }
 
 .mobilcss li a {
   display: block;
   padding: 5px 5px;
-  border-right: 1px solid #f4f4f4;
+  border-right: 0px solid #f4f4f4;
   color: black;
   text-decoration: none;
 }
