@@ -450,7 +450,6 @@ a {
 
 .mobilcss .menu-btn:checked ~ .menu {
   max-height: 340px;
-  top: 369px;
 }
 
 .mobilcss .menu-btn:checked ~ .menu-icon .navicon {
@@ -468,6 +467,11 @@ a {
 .mobilcss .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,
 .mobilcss .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
   top: 0;
+}
+
+
+.mobilcss .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
+  top: 369px;
 }
 
 /* 48em = 768px */
