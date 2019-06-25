@@ -81,7 +81,7 @@ input#menu-btn
     margin-left: 736px;
     background-color: whitesmoke;
     margin-top: -415px;
-    float: left;
+    float: right;
 }
 #sidmeny4 {
   width: 350px;
@@ -95,14 +95,14 @@ input#menu-btn
   height: 430px;
   margin-top: -39px;
   background-color: whitesmoke;
-  float: left;
+  float: center;
 }
 #sidmeny6 {
   width: 350px;
   height: 400px;
   margin-top:-57px;
   background-color: whitesmoke;
-  float: left;
+  float: right;
 }
 
 #container-klass {
