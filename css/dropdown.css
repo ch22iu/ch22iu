@@ -194,9 +194,20 @@ input#menu-btn
 
 
 #container-klass li {
-  margin-left:15px;
-  margin-right:0px;
-  background-color: none;
+    margin-left: 32px;
+    
+}
+#container-klass1 li {
+    margin-left: 32px;
+    
+}
+#container-klass2 li {
+    margin-left: 32px;
+    
+}
+#container-klass3 li {
+    margin-left: 32px;
+    
 }
 
 
