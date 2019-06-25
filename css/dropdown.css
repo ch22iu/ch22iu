@@ -54,6 +54,13 @@ input#menu-btn
 	display:none;
 }
 
+
+:target {
+  animation: highlight 3s ease;  
+  transform: translateX(20px);     
+}
+
+
 #menyn {
   width: 100%;
   height: auto;
