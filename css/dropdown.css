@@ -68,6 +68,10 @@ input#menu-btn
 	display: none;
 }
 
+header.mobilcss {
+    display: none;
+}
+
 #menyn {
   width: 100%;
   height: auto;
