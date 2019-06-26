@@ -185,6 +185,18 @@ header.mobilcss {
     float: left;
 }
 
+#K3:hover > #container-klass3 {
+    width: 100%;
+    z-index: 99990;
+    position: absolute;
+    left: -24px;
+    top: 11%;
+    margin: 5px;
+    background-color: white;
+    animation: highlight 1s ease;
+    transform: translateX(20px);
+}
+
 
 #container-klass1:hover {
     width: 100%;
