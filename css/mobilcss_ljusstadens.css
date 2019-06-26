@@ -205,7 +205,14 @@ a {
     float: left;
 }
 
-#container-klass ul {
+#container-klass1 ul {
+    background-color: white;
+}
+#container-klass2 ul {
+    background-color: white;
+}
+
+#container-klass3 ul {
     background-color: white;
 }
 
