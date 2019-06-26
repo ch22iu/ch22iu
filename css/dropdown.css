@@ -82,7 +82,7 @@ header.mobilcss {
   width: 100%;
   height: auto;
   float: left;
-  margin-top: -348px;
+  margin-top: -305px;
   line-height: 0px;
 }
 
@@ -240,8 +240,8 @@ header.mobilcss {
     color: white;
     background-position: center;
     padding-top: 22px;
-    padding-left: 80px;
-    padding-right: 73px;
+    padding-left: 0px;
+    padding-right: 0px;
     padding-bottom: 31px;
     font-style: italic;
     font-size: small;
