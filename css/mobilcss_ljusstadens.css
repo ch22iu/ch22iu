@@ -6,6 +6,10 @@ body {
   display: block;
 }
 
+header.mobilcss {
+    display: block;
+}
+
 a {
   color: #000;
 }
