@@ -239,10 +239,10 @@ header.mobilcss {
     background-repeat: no-repeat;
     color: white;
     background-position: center;
-    padding-top: 22px;
-    padding-left: 0px;
-    padding-right: 0px;
-    padding-bottom: 31px;
+    padding-top: 42px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 45px;
     font-style: italic;
     font-size: small;
 }
