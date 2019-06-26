@@ -99,7 +99,7 @@ header.mobilcss {
 
 #sidmeny1 {
     background-color: whitesmoke;
-    width: 330px;
+    width: 100%;
     height: 430px;
     margin: 5px;
     float: left;
