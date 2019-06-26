@@ -183,9 +183,9 @@ header.mobilcss {
     width: 100%;
     z-index: 99990;
     position: absolute;
-    left: -24px;
-    top: 11%;
-    margin: 5px;
+    left: -105px;
+    top: 16%;
+    /* margin: 5px; */
     background-color: white;
     animation: highlight 1s ease;
     transform: translateX(20px);
@@ -195,9 +195,9 @@ header.mobilcss {
     width: 100%;
     z-index: 99990;
     position: absolute;
-    left: 0;
-    top: 0;
-    margin: 5px;
+    left: -105px;
+    top: 16%;
+    /* margin: 5px; */
     background-color: white;
     animation: highlight 1s ease;
     transform: translateX(20px);
@@ -206,9 +206,9 @@ header.mobilcss {
     width: 100%;
     z-index: 99990;
     position: absolute;
-    left: -24px;
-    top: 11%;
-    margin: 5px;
+    left: -105px;
+    top: 16%;
+    /* margin: 5px; */
     background-color: white;
     animation: highlight 1s ease;
     transform: translateX(20px);
