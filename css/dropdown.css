@@ -54,6 +54,20 @@ input#menu-btn
 	display:none;
 }
 
+#r3539
+{
+	display: none;
+}
+.navContainer
+{
+	display: none;
+}
+
+.headline
+{
+	display: none;
+}
+
 #menyn {
   width: 100%;
   height: auto;
