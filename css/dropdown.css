@@ -173,8 +173,8 @@ header.mobilcss {
     height: auto;
     background-color: white;
     border: 2px solid #e6e6e6;
-    margin-top: 25px;
     margin: 0;
+    margin-top: 25px;
     float: left;
 }
 
@@ -182,14 +182,19 @@ header.mobilcss {
 #container-klass1:hover {
     width: 100%;
     z-index: 99990;
-    position: absolute;
-    left: -24px;
-    top: 11%;
-    margin: 5px;
+    margin: 0px;
     background-color: white;
     animation: highlight 1s ease;
     transform: translateX(20px);
 }
+
+#container-klass:hover {
+
+    width: 100%;
+    height: auto;
+
+}
+
 #container-klass2:hover {
     width: 100%;
     z-index: 99990;
