@@ -208,6 +208,11 @@ header.mobilcss {
 }
 
 
+#container-klass ul {
+
+	background-color: white;
+}
+
 #container-klass li {
     margin-left: 32px;
     
