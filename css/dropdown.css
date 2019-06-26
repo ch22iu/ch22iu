@@ -151,40 +151,31 @@ header.mobilcss {
     float: left;
 }
 #container-klass1 {
-    width: 330px;
+    width: 33%;
     height: auto;
-    margin: 5px;
+    margin: 0px;
     background-color: white;
     border: 2px solid #e6e6e6;
+    margin-top: 25px;
     float: left;
 }
 #container-klass2 {
-    width: 330px;
+    width: 33%;
     height: auto;
     background-color: white;
     border: 2px solid #e6e6e6;
-    margin: 5px;
+    margin: 0px;
+    margin-top: 25px;
     float: left;
 }
 #container-klass3 {
-    width: 330px;
+    width: 33%;
     height: auto;
     background-color: white;
     border: 2px solid #e6e6e6;
-    margin: 5px;
+    margin-top: 25px;
+    margin: 0;
     float: left;
-}
-
-#K3:hover > #container-klass3 {
-    width: 100%;
-    z-index: 99990;
-    position: absolute;
-    left: -24px;
-    top: 11%;
-    margin: 5px;
-    background-color: white;
-    animation: highlight 1s ease;
-    transform: translateX(20px);
 }
 
 
