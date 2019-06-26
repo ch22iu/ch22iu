@@ -116,8 +116,6 @@ a {
     box-shadow: 0px 0px 20px 4px #dedede;
 }
 
-
-
 #container-klass1 {
     width: 332px;
     height: auto;
@@ -205,6 +203,11 @@ a {
     border: 0px;
     border-style: none;
     float: left;
+}
+
+
+#container-klass ul {
+    background-color: white;
 }
 
 #container-klass1 ul {
