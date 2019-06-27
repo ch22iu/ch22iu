@@ -222,23 +222,31 @@ a {
 }
 
 #container-klass li {
-    margin-left: 32px;
     background-color: white;
+    margin-left: 24px;
+    float: left;
+    width: 100%;
     
 }
 #container-klass1 li {
-    margin-left: 32px;
     background-color: white;
+    margin-left: 24px;
+    float: left;
+    width: 100%;
     
 }
 #container-klass2 li {
-    margin-left: 32px;
     background-color: white;
+    margin-left: 24px;
+    float: left;
+    width: 100%;
     
 }
 #container-klass3 li {
-    margin-left: 32px;
     background-color: white;
+    margin-left: 24px;
+    float: left;
+    width: 100%;
     
 }
 
