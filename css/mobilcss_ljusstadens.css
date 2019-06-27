@@ -153,58 +153,6 @@ a {
     box-shadow: 0px 0px 20px 4px #dedede;
 }
 
-#container-klass1:hover {
-    margin-bottom: 0px;
-    margin-top: -80px;
-    width: 100%;
-    height: auto;
-    left: 0;
-    top: 0;
-    position: relative;
-    z-index: 0;
-    background-color: white;
-    animation: none;
-    transform: none;
-    border: 0px;
-    border-style: none;
-    float: left;
-}
-
-
-#container-klass2:hover {
-    margin-bottom: 0px;
-    margin-top: 25px;
-    width: 100%;
-    height: auto;
-    left: 0;
-    top: 0;
-    position: relative;
-    z-index: 0;
-    background-color: white;
-    animation: none;
-    transform: none;
-    border: 0px;
-    border-style: none;
-    float: left;
-}
-
-#container-klass3:hover {
-    margin-bottom: 0px;
-    margin-top: 45px;
-    width: 100%;
-    height: auto;
-    left: 0;
-    top: 0;
-    position: relative;
-    z-index: 0;
-    background-color: white;
-    animation: none;
-    transform: none;
-    border: 0px;
-    border-style: none;
-    float: left;
-}
-
 
 #container-klass ul {
     background-color: white;
@@ -225,28 +173,28 @@ a {
     background-color: white;
     margin-left: 24px;
     float: left;
-    width: 100%;
+    width: 88%;
     
 }
 #container-klass1 li {
     background-color: white;
     margin-left: 24px;
     float: left;
-    width: 100%;
+    width: 88%;
     
 }
 #container-klass2 li {
     background-color: white;
     margin-left: 24px;
     float: left;
-    width: 100%;
+    width: 88%;
     
 }
 #container-klass3 li {
     background-color: white;
     margin-left: 24px;
     float: left;
-    width: 100%;
+    width: 88%;
     
 }
 
