@@ -207,8 +207,9 @@ header.mobilcss {
 }
 
 #container-klass li {
-    margin-left: 32px;
-    width: 45%;
+    margin-left: 24px;
+    float: left;
+    width: 300px;
     
 }
 #container-klass1 li {
