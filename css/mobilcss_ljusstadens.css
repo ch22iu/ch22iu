@@ -402,11 +402,11 @@ a {
     border-bottom-color: #333333 !important;
     color: rgb(241, 241, 241);
     text-decoration: none;
-    font-size: 13px;
+    font-size: 20px;
     background-color: rgb(69, 69, 69);
     width: 350px;
-    height: 26px;
-    letter-spacing: 1px;
+    height: 37px;
+    letter-spacing: 5px;
     /* text-align: center; */
     line-height: 14px;
     font-family: Montserrat, Arial, Helvetica, sans-serif;
@@ -501,7 +501,7 @@ a {
 
 .mobilcss .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,
 .mobilcss .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
-    top: 351px;
+    top: 487px;
     width: 27px;
     height: 5px;
     z-index: 99999;
@@ -509,7 +509,7 @@ a {
 
 
 .mobilcss .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
-    top: 351px;
+    top: 487px;
     width: 27px;
     height: 5px;
     z-index: 99999;
