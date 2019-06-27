@@ -484,7 +484,7 @@ a {
 }
 
 .mobilcss .menu-btn:checked ~ .menu {
-  max-height: 340px;
+  max-height: 500px;
 }
 
 .mobilcss .menu-btn:checked ~ .menu-icon .navicon {
