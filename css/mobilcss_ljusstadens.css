@@ -358,13 +358,13 @@ a {
     border-bottom-color: #333333 !important;
     color: rgb(241, 241, 241);
     text-decoration: none;
-    font-size: 15px;
+    font-size: 18px;
     background-color: rgb(69, 69, 69);
     width: 400px;
-    height: 30px;
+    height: 24px;
     letter-spacing: 2px;
     /* text-align: center; */
-    line-height: 14px;
+    line-height: 6px;
     font-family: Montserrat, Arial, Helvetica, sans-serif;
 }
 
