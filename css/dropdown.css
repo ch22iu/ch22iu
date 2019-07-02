@@ -115,7 +115,7 @@ header.mobilcss {
     float: left;
     opacity: 0.80;
     border-radius: 5px 1px 1px 5px;
-    box-shadow: 0px 3px 19px 9px #e1e1e1;
+    box-shadow: 0px 0px 3px 0px #e1e1e1;
 }
 #sidmeny2 {
     background-color: white;
@@ -126,7 +126,7 @@ header.mobilcss {
     float: left;
     opacity: 0.80;
     border-radius: 5px 1px 1px 5px;
-    box-shadow: 0px 3px 19px 9px #e1e1e1;
+    box-shadow: 0px 0px 3px 0px #e1e1e1;
 }
 #sidmeny3 {
     background-color: white;
@@ -139,7 +139,7 @@ header.mobilcss {
     float: left;
     opacity: 0.80;
     border-radius: 5px 1px 1px 5px;
-    box-shadow: 0px 3px 19px 9px #e1e1e1;
+    box-shadow: 0px 0px 3px 0px #e1e1e1;
 }
 #sidmeny4 {
     background-color: white;
@@ -150,7 +150,7 @@ header.mobilcss {
     float: left;
     opacity: 0.80;
     border-radius: 5px 1px 1px 5px;
-    box-shadow: 0px 3px 19px 9px #e1e1e1;
+    box-shadow: 0px 0px 3px 0px #e1e1e1;
 }
 #sidmeny5 {
     background-color: white;
@@ -161,7 +161,7 @@ header.mobilcss {
     margin-top: 25px;
     float: left;
     border-radius: 5px 1px 1px 5px;
-    box-shadow: 0px 3px 19px 9px #e1e1e1;
+    box-shadow: 0px 0px 3px 0px #e1e1e1;
 }
 #sidmeny6 {
     background-color: white;
@@ -172,7 +172,7 @@ header.mobilcss {
     opacity: 0.80;
     float: left;
     border-radius: 5px 1px 1px 5px;
-    box-shadow: 0px 3px 19px 9px #e1e1e1;
+    box-shadow: 0px 0px 3px 0px #e1e1e1;
 }
 
 #container-klass {
