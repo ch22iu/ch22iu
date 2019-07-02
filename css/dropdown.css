@@ -163,7 +163,6 @@ header.mobilcss {
     margin: 0px;
     margin-top: 25px;
     color: rgb(0, 0, 0, 1);
-    margin-left: 5px;
     float: left;
     opacity: 0.80;
     border-radius: 5px 1px 1px 5px;
@@ -171,10 +170,11 @@ header.mobilcss {
 }
 #sidmeny5 {
     background-color: white;
-    width: 32%;
+    width: 33%;
     height: 430px;
     opacity: 0.80;
     color: rgb(0, 0, 0, 1);
+    margin-left: 5px;
     margin: 0px;
     margin-top: 25px;
     float: left;
