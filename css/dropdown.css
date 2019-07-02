@@ -192,6 +192,19 @@ header.mobilcss {
     border-radius: 5px 1px 1px 5px;
     box-shadow: 0px 0px 3px 0px #e1e1e1;
 }
+#sidmeny7 {
+    background-color: white;
+    width: 50%;
+    height: 430px;
+    margin: 0px;
+    margin-top: 25px;
+    color: rgb(0, 0, 0, 1);
+    opacity: 0.80;
+    float: left;
+    border-radius: 5px 1px 1px 5px;
+    box-shadow: 0px 0px 3px 0px #e1e1e1;
+}
+
 
 #container-klass {
     width: 100%;
