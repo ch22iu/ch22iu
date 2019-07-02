@@ -49,7 +49,6 @@
 
 #r3802 {
 	display:box;
-	background-image:url(https://www.ljusstadenspizzeria.se/uploads/by00t5HX/940x370_602_970_710.jpg);
 }
 
 #r2863 {
@@ -64,7 +63,7 @@
 
 #r2627:before, #r4988:before, #r3802:before, #r1548:before, #r1303:before, #r2321:before, #r2802:before {
  background-image: none;
-
+ background-color: none;
 }
 
 
