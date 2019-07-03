@@ -183,6 +183,7 @@ header.mobilcss {
     height: 430px;
     margin: 0px;
     margin-top: 25px;
+    margin-right: 5px;
     color: rgb(0, 0, 0, 1);
     float: left;
     opacity: 0.80;
@@ -197,8 +198,8 @@ header.mobilcss {
     color: rgb(0, 0, 0, 1);
     margin: 0px;
     margin-top: 25px;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
     float: left;
     border-radius: 5px 1px 1px 5px;
     box-shadow: 0px 0px 3px 0px #e1e1e1;
