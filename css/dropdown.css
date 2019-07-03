@@ -34,6 +34,10 @@
         display: block;
     }
 
+.col.col-md-6.col-sm-12.col-lg-6 {
+    display: none;
+}
+
 
 #underline1 {
 	font-weight: bold;

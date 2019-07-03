@@ -23,6 +23,11 @@ a {
    display: none;
 }
 
+.col.col-md-6.col-sm-12.col-lg-6 {
+    display: none;
+}
+
+
 #menyn {
   width: 100%;
   height: 2000px;
