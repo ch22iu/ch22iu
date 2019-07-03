@@ -46,6 +46,20 @@ a {
 	display:none;
 }
 
+#n1 {
+	float:left;
+	margin-left:35px;
+	text-align:left;
+	line-height:19px;
+}
+#n2 {
+	float:left;
+	margin-left:5px;
+	text-align:right;
+	line-height:19px
+
+}
+
 #menyn {
   width: 100%;
   height: 2000px;
