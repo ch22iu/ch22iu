@@ -221,7 +221,7 @@ header.mobilcss {
     margin-top: 25px;
     color: rgb(0, 0, 0, 1);
     margin-left: 5px;
-    margin-right: 5px;
+    margin-right: 0px;
     opacity: 0.80;
     float: left;
     border-radius: 5px 1px 1px 5px;
