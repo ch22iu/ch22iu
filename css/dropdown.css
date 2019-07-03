@@ -38,6 +38,10 @@
     display: none;
 }
 
+.row.brandfooter {
+    display: none;
+}
+
 
 #underline1 {
 	font-weight: bold;
