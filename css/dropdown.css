@@ -54,6 +54,19 @@
     display: block;
 }
 
+#n1 {
+	float:left;
+	margin-left:20%;
+	text-align:left;
+	line-height:19px;
+}
+#n2 {
+	float:left;
+	margin-left:24%;
+	text-align:right;
+	line-height:19px
+
+}
 
 #underline1 {
 	font-weight: bold;
