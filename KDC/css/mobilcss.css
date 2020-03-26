@@ -631,5 +631,11 @@ ul.menu {
 	display: none;
 }
 
-
+#mobilimg
+{
+    padding-top: 15px;
+    padding-right: 24px;
+    width: 46px;
+    height: 28px;
+}
 
