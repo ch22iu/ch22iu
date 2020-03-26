@@ -1,4 +1,3 @@
-
 body {
   margin: 0;
   font-family: 'Droid Serif', serif;
@@ -11,7 +10,10 @@ header.mobilcss {
 }
 
 a {
-  color: #000;
+    color: #696969;
+    text-decoration: none;
+    font-family: 'Droid Serif', serif;
+    font-size: 15px;
 }
 
 #r4237
@@ -412,10 +414,11 @@ a {
   box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
   position: fixed;
   display: block;
-  margin-top: 39px;
+  margin-top: 0px;
   width: 100%;
   left:0px;
-  height: 55px;
+  height: 36px;
+  padding-bottom:68px;
   z-index: 3;
 }
 
@@ -438,7 +441,7 @@ a {
     font-size: 18px;
     background-color: rgb(69, 69, 69);
     width: 400px;
-    height: 24px;
+    height: 0px;
     letter-spacing: 2px;
     /* text-align: center; */
     line-height: 6px;
@@ -447,7 +450,7 @@ a {
 
 .mobilcss li a:hover,
 .mobilcss .menu-btn:hover {
-    height: 26px;
+    height: 0px;
     color: #fff;
     background: #613131;
 }
@@ -465,6 +468,7 @@ a {
 .mobilcss .menu {
   clear: both;
   max-height: 0;
+    height: 245px;
   display: block;
   transition: max-height .2s ease-out;
 }
@@ -476,7 +480,7 @@ a {
   display: inline-block;
   float: right;
   padding: 3px 26px;
-  margin-top: -15px;
+  margin-top: 25px;
   position: relative;
   user-select: none;
   height: 31px;
@@ -517,7 +521,8 @@ a {
 }
 
 .mobilcss .menu-btn:checked ~ .menu {
-  max-height: 400px;
+  max-height: 260px;
+background-color:white;
 }
 
 .mobilcss .menu-btn:checked ~ .menu-icon .navicon {
@@ -534,7 +539,7 @@ a {
 
 .mobilcss .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,
 .mobilcss .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
-    top: 404px;
+    top: 260px;
     width: 27px;
     height: 5px;
     z-index: 99999;
@@ -542,7 +547,7 @@ a {
 
 
 .mobilcss .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
-    top: 404px;
+    top: 260px;
     width: 27px;
     height: 5px;
     z-index: 99999;
@@ -616,6 +621,10 @@ ul.menu {
 	display:none;
 	}
 
+#KDC {
+	display:none;
+}
+
 #r3539c
 
 {
@@ -623,10 +632,4 @@ ul.menu {
 }
 
 
-/* 48em = 768px */
 
-@media (min-width: 480px) {
-  .section-split a {
-    width: 50%;
-  }
-}

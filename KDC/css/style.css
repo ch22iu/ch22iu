@@ -25,7 +25,7 @@
 body {
 	line-height: 1.5em;
 	color: #6a6a6a;
-	background: #ffffff;
+	background-color: white;
 	font-style: normal;
 	font-size: 13px;
 	font-family: 'Montserrat', sans-serif;
@@ -1250,10 +1250,16 @@ color: white;
 /* FOOTER ------------------------------------------------------------*/
 
 #footer{
-	position: relative;
+	position: inherit;
 	width: 100%;
-	padding-bottom: 10px;
-	background: #252525 url(../img/png-patterns/ver-1x1.png);
+	padding-bottom: 60px;
+        padding-left: 0px;
+        margin-left: -10px;
+        padding-right: 18px;
+	padding-top:35px;
+	background-color: black;
+	line-height: 1.6em;
+	color: whitesmoke;
 	border-bottom: #383838 solid 1px;
 	border-top: 2px solid #ccc;
 }
@@ -1276,7 +1282,7 @@ color: white;
 #footer h4,
 #footer h5,
 #footer h6{
-	color: #dcdcdc;
+	color: white;
 	text-shadow: 0 -1px rgba(0, 0, 0, 0.8);
 	margin-bottom: 10px;
 }
