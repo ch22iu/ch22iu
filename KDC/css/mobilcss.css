@@ -10,11 +10,14 @@ header.mobilcss {
 }
 
 a {
-    color: #726666;
+    color: #3e3939;
     text-decoration: none;
     font-family: 'Droid Serif', serif;
     font-size: 23px;
     letter-spacing: -1px;
+    cursor: pointer !important;
+    font-weight: normal;
+    letter-spacing: 0.1em;
 }
 
 #r4237
