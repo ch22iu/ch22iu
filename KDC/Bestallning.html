@@ -15,9 +15,8 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <link rel="stylesheet" href="form.css" >
         <script src="form.js"></script>
-<script language=”JavaScript”>
-
-var frmvalidator = new Validator(“contactform”); frmvalidator.addValidation(“name”,”req”,”Please provide your name”); frmvalidator.addValidation(“email”,”req”,”Please provide your email”); frmvalidator.addValidation(“email”,”email”, “Please enter a valid email address”); </script>
+		
+		
 </head>
 <body>
 <center>
@@ -77,7 +76,7 @@ var frmvalidator = new Validator(“contactform”); frmvalidator.addValidation(
                 <div class="col-md-6 " id="form_container">
                     <h2>Beställning</h2> 
                     <p> Skicka din beställning nedan. </p>
-                    <form role="form" method="post" id="reused_form">
+                    <form role="form" action="mailto:christopherholmberg@live.se" enctype="text/plain">
                         <div class="row">
                             <div class="col-sm-12 form-group">
                                 <label for="message"> Meddelande:</label>
@@ -96,7 +95,7 @@ var frmvalidator = new Validator(“contactform”); frmvalidator.addValidation(
                         </div>
                         <div class="row">
                             <div class="col-sm-12 form-group">
-                                <button type="submit" class="btn btn-lg btn-default pull-right" >Send &rarr;</button>
+                                <button type="submit" class="btn btn-lg btn-default pull-right" >Skicka</button>
                             </div>
                         </div>
                     </form>
