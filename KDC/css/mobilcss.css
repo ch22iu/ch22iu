@@ -485,7 +485,7 @@ a {
   display: inline-block;
   float: right;
   padding: 3px 26px;
-  margin-top: 25px;
+  margin-top: -34px;
   position: relative;
   user-select: none;
   height: 31px;
@@ -627,8 +627,12 @@ ul.menu {
 	}
 
 #KDC {
-	background-size: contain;
-        display: block;
+    background-size: contain;
+    margin-top: 14px;
+    background-color: white;
+    padding: 35px;
+    height: 33px;
+    display: block;
 }
 
 #r3539c
