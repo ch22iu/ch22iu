@@ -627,7 +627,8 @@ ul.menu {
 	}
 
 #KDC {
-	display:none;
+	background-size: contain;
+        display: block;
 }
 
 #r3539c
