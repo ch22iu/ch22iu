@@ -14,7 +14,7 @@ a {
     color: #3e3939;
     text-decoration: none;
     font-family: 'Droid Serif', serif;
-    font-size: 15px;
+    font-size: 16px;
     letter-spacing: -1px;
     cursor: pointer !important;
     font-weight: normal;
@@ -638,8 +638,8 @@ ul.menu {
 
 #mobilimg
 {
-    padding-top: 15px;
-    padding-right: 24px;
+    padding-top: 14px;
+    padding-right: 18px;
     width: 46px;
     height: 28px;
 }
