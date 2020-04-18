@@ -26,9 +26,8 @@ body {
 	line-height: 1.5em;
 	color: #6a6a6a;
 	background-color: white;
-	font-style: normal;
-	font-size: 13px;
-	font-family: 'Montserrat', sans-serif;
+
+	font: normal normal normal 25px/1.4em brandon-grot-w01-light,sans-serif
 }
 
 #top-gap{ height: 170px; }
