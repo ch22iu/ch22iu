@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8" name="viewport" content="user-scalable=0, width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta http-equiv="Cache-Control" content="no-cache">
+<head>
+<link rel="stylesheet" href="css/dropdown.css" media="screen" type="text/css" />
+
+<link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
+<link href="css/mobilcss.css" rel="stylesheet" media="only screen and (max-width: 480px)" content="user-scalable=0, width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" type="text/css" />
+<link href="css/mobilcss.css" rel="stylesheet" media="only screen and (max-width: 760px)" content="user-scalable=0, width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" type="text/css" />
+</head>
+<body>
+<center>
+
+<header class="mobilcss" style="font-size:20px;top 39px">
+  <input class="menu-btn" type="checkbox" id="menu-btn" /><div id="KDC_mobile"></div>
+  <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label><ul class="menu">
+<li><a href="OmOss.html">Om oss</a>
+<li><a href="index.html#VaraTjanster">Våra tjänster</a>
+<li><a href="#KontaktaOss">Kontakta oss</a>
+<li><a href="Bestallning.html">Beställning</a>
+
+</ul>
+</header>
+
+<div id="menysida">
+<ul style="background-color:-internal-root-color;transition-duration: 0.5s;position: fixed; top: -22px; width: 100%;height: 80px;left: 0; z-index: 99999; color: white; font-size:20px; line-height: 1.6em;padding-top:20px; ">
+<li><a href="OmOss.html">Om oss</a>
+<li><a href="VaraTjanster.html">Våra tjänster</a>
+<ul class="dropdown" style="margin: 0px"><li>
+<a href="VaraTjanster.html">Läs mer</a></li>
+</li></ul>
+
+<li><a href="KontaktaOss.html">Kontakta oss</a>
+
+<li><a href="Bestallning.html">Beställning</a>
+<ul class="dropdown" style="margin: 0px"><li>
+</ul></center>
+</div>
+
+<div id="sidmeny1">
+<br>
+<br>
+<br>
+<br>
+
+<div id="KDC"></div>
+<div id="str"> </div>
+<br><div id="OmOss"></div>
+
+<center style="font: italic normal normal 28px/1.4em brandon-grot-w01-light,sans-serif;
+    color: #737373;text-align: center;"><p>Kontakta Oss</p></center>
+<p ><center><h2  style="font: italic normal normal 18px/1.4em brandon-grot-w01-light,sans-serif;
+    color: #737373;">
+	Du kan alltid kontakta oss om du har frågor eller synpunkter. <br>Vi kommer att göra vårt yttersta för att besvara dem så snabbt och bra som möjligt. 
+<br><br><br><br><br>
+<div id="container-klass"><div id="Sa1"></div>
+<center><strong></center></strong><center><left>
+<ul><li style="font-size: 23px; font-family: 'Montserrat', sans-serif; list-style: none; margin-bottom: 15px; vertical-align: text-bottom; line-height: 1.6em"></left>
+	<p>
+<form method="POST" action="https://formspree.io/mqkdwjpz" enctype="multipart/form-data">
+ <input type="email" name="email" placeholder="Your email">
+ <textarea name="message" placeholder="Details of your problem"></textarea>
+ <input type="file" name="attachment" accept="image/png, image/jpeg, txt, pdf">
+ <button type="submit">Send Test</button>
+</form>
+	  <br>
+  </p>
+				<script>
+  window.addEventListener("DOMContentLoaded", function() {
+
+    // get the form elements defined in your form HTML above
+    
+    var form = document.getElementById("form");
+    var button = document.getElementById("skicka");
+    var status = document.getElementById("my-form-status");
+
+    // Success and Error functions for after the form is submitted
+    
+    function success() {
+      form.reset();
+      button.style = "display: none ";
+      status.innerHTML = "Tack för ditt meddelande, vi återkommer inom kort!";
+    }
+
+    function error() {
+      status.innerHTML = "Vänligen fyll i din e-post.";
+    }
+
+    // handle the form submission event
+
+    form.addEventListener("submit", function(ev) {
+      ev.preventDefault();
+      var data = new FormData(form);
+      ajax(form.method, form.action, data, success, error);
+    });
+  });
+  
+  // helper function for sending an AJAX request
+
+  function ajax(method, url, data, success, error) {
+    var xhr = new XMLHttpRequest();
+    xhr.open(method, url);
+    xhr.setRequestHeader("Accept", "application/json");
+    xhr.onreadystatechange = function() {
+      if (xhr.readyState !== XMLHttpRequest.DONE) return;
+      if (xhr.status === 200) {
+        success(xhr.response, xhr.responseType);
+      } else {
+        error(xhr.status, xhr.response, xhr.responseType);
+      }
+    };
+    xhr.send(data);
+  }
+</script>
+
+</li>
+
+</ul>
+</center>
+</div>
+</center></h2>
+<br>
+<br>
+<br>
+<br>
+
+</center>
+<div id="str"> </div>
+<div id="footer"><center>© KalmarDelgivningscenter</center></div>
+</p>
+</div>
+</div>
+
+</div>
+</body>
+</html>

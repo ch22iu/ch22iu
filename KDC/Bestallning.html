@@ -23,7 +23,7 @@
                             <div class="panel-body">
                                 <form id="reused_form" action="https://formspree.io/mqkdwjpz" method="POST" enctype="multipart/form-data" onsubmit="Bestallningklar.html">
                                     <div class="form-group">
-                                        <label><i class="fa fa-user" aria-hidden="true"></i> Namn</label>
+                                        <label><i class="fa fa-user" aria-hidden="true"></i> Förnamn</label>
                                         <input type="text" name="Förnamn" class="form-control" placeholder="Ditt namn">
                                     </div>
 									                                    <div class="form-group">
@@ -36,16 +36,22 @@
                                     </div>
 									                                    <div class="form-group">
                                         <label><i class="fa fa-envelope" aria-hidden="true"></i> Telefon</label>
-                                        <input type="text" name="Telefon" class="form-control" placeholder="Din e-post">
+                                        <input type="text" name="Telefon" class="form-control" placeholder="Telefon">
                                     </div>
                                     <div class="form-group">
                                         <label><i class="fa fa-comment" aria-hidden="true"></i> Meddelande</label>
                                         <textarea rows="3" name="Meddelande" class="form-control" placeholder="Skriv ditt meddelande"></textarea>
                                     </div>
-                                    <div class="form-group">
-                                        <label><i class="fa fa-comment" aria-hidden="true"></i> +</label>
-                                        <input type="file" name="upload" class="form-control" placeholder="Ladda upp din fil"></textarea>
+									<div class="form-group">
+                                          <label>
+										Din fil:
+									<input type="file" name="upload">
+									</label>
+                                        
                                     </div>
+									
+									
+									
                                     <div class="form-group">
 
                                         <button class="btn btn-raised btn-block btn-danger" type="submit" id="btn1">Skicka</button>
