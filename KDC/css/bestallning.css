@@ -1,0 +1,712 @@
+body {
+  margin: 0;
+  font-family: 'Droid Serif', serif;
+  background-color: white;
+  display: block;
+  font: normal normal normal 15px/1.4em brandon-grot-w01-light,sans-serif;
+}
+
+header.mobilcss {
+    display: block;
+}
+    ul li{
+        display: inline-block;
+        position: relative;
+        line-height: 21px;
+        text-align: left;
+	width:100%;
+	margin-left:5px;
+	margin-right:5px;
+    }
+a {
+    color: #3e3939;
+    text-decoration: none;
+    font:normal normal normal 14px/1.5em brandon-grot-w01-light,sans-serif;
+    cursor: pointer !important;
+
+}
+
+#r4237
+{
+    display: none;
+}
+#r3539
+{
+   display: none;
+}
+
+.col.col-md-6.col-sm-12.col-lg-6 {
+    display: none;
+}
+
+.row.brandfooter {
+    display: none;
+}
+
+#r4270 {
+    display: none;
+}
+
+#r2800 {
+    display: none;
+}
+#p2374 {
+    display: block;
+}
+#r1074 {
+
+	display:none;
+}
+
+#n1 {
+	float:left;
+	margin-left:35px;
+	text-align:left;
+	line-height:19px;
+}
+#n2 {
+    float: right;
+    margin-right: 35px;
+    text-align: right;
+    line-height: 19px;
+
+}
+
+#menyn {
+  width: 100%;
+  height: 2000px;
+  float: left;
+  margin-top: -289px;
+}
+
+#sidmeny1 {
+    width: 100%;
+    height: 682px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: left;
+    border: 0px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 0px 3px 0px #e1e1e1;
+}
+#sidmeny2 {
+    width: 100%;
+    height: 424px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: left;
+    border: 0px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 0px 3px 0px #e1e1e1;
+}
+#sidmeny3 {
+    width: 100%;
+    height: 400px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: left;
+    border: 0px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 0px 3px 0px #e1e1e1;
+}
+#sidmeny4 {
+    width: 100%;
+    height: 336px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: left;
+    border: 0px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 0px 3px 0px #e1e1e1;
+}
+#sidmeny5 {
+    width: 100%;
+    height: 450px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: left;
+    border: 0px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 0px 3px 0px #e1e1e1;
+}
+#sidmeny6 {
+    width: 100%;
+    height: 440px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: left;
+    border: 0px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 0px 3px 0px #e1e1e1;
+}
+#sidmeny7 {
+    width: 100%;
+    height: 400px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: left;
+    border: 0px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 0px 3px 0px #e1e1e1;
+}
+#kontakt {
+    width: 100%;
+    height: 400px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: left;
+    border: 0px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 0px 3px 0px #e1e1e1;
+}
+#ringoss {
+    width: 100%;
+    height: 400px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: left;
+    border: 0px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 0px 3px 0px #e1e1e1;
+}
+
+
+
+#container-klass {
+    width: 100%;
+    height: auto;
+    background-color: white;
+    margin-top: 24px;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: left;
+    border: 0px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 0px 3px 0px #e1e1e1;
+}
+
+#container-klass1 {
+    width: 100%;
+    height: auto;
+    background-color: white;
+    margin-top: 1624px;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: left;
+    border: 0px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 0px 3px 0px #e1e1e1;
+}
+#container-klass2 {
+    width: 100%;
+    height: auto;
+    background-color: white;
+    margin-top: 25px;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: left;
+    border: 0px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 0px 3px 0px #e1e1e1;
+}
+#container-klass3 {
+    width: 100%;
+    height: auto;
+    background-color: white;
+    margin-top: 25px;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: left;
+    border: 0px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 0px 3px 0px #e1e1e1;
+}
+
+
+#container-klass ul {
+    background-color: white;
+}
+
+#container-klass1 ul {
+    background-color: white;
+}
+#container-klass2 ul {
+    background-color: white;
+}
+
+#container-klass3 ul {
+    background-color: white;
+}
+
+#container-klass li {
+    background-color: white;
+    margin-left: 24px;
+    float: left;
+    width: 88%;
+    
+}
+#container-klass1 li {
+    background-color: white;
+    margin-left: 24px;
+    float: left;
+    width: 88%;
+    
+}
+#container-klass2 li {
+    background-color: white;
+    margin-left: 24px;
+    float: left;
+    width: 88%;
+    
+}
+#container-klass3 li {
+    background-color: white;
+    margin-left: 24px;
+    float: left;
+    width: 88%;
+    
+}
+
+
+#underribbon
+{
+    background-image: url('../img/ribbon.png');
+    background-repeat: no-repeat;
+    color: white;
+    background-position: center;
+    padding-top: 42px;
+    padding-left: 0;
+    padding-bottom: 45px;
+    display: block;
+    line-height: 59px;
+    padding-right: 49px;
+    font-style: italic;
+    font-size: x-large;
+}
+
+
+
+#Klass1 {
+    background-image: url(https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png);
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 18px;
+    padding-left: 94px;
+    padding-right: 155px;
+    padding-bottom: 70px;
+    float: left;
+}
+#Klass2 {
+    background-image: url(https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png);
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 18px;
+    padding-left: 94px;
+    padding-right: 155px;
+    padding-bottom: 60px;
+    float: left;
+    margin-top:128px;
+}
+#Klass3 {
+    background-image: url(https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png);
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 18px;
+    padding-left: 94px;
+    padding-right: 155px;
+    padding-bottom: 60px;
+    float: left;
+
+}
+
+#Special {
+    background-image: url(https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png);
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 18px;
+    padding-left: 94px;
+    padding-right: 155px;
+    padding-bottom: 60px;
+    float: left;
+}
+
+#Absoluta {
+    background-image: url(https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png);
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 102px;
+    padding-bottom: 24px;
+    float: left;
+}
+
+#Rullar1 {
+    background-image: url(https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png);
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 20px;
+    padding-left: 64px;
+    padding-right: 102px;
+    padding-bottom: 24px;
+    float: left;
+}
+
+
+#Amerikanska {
+    background-image: url(https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png);
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 102px;
+    padding-bottom: 24px;
+    float: left;
+}
+
+#Falafel {
+  background-image: url("https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png");
+  background-repeat: no-repeat;
+  color: white;
+  padding-top: 18px;
+  padding-left: 132px;
+  padding-right: 142px;
+  padding-bottom: 60px;
+  font-size:20px;
+}
+
+#Hamburgare {
+    background-image: url(https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png);
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 18px;
+    padding-left: 94px;
+    padding-right: 155px;
+    padding-bottom: 60px;
+    float: left;
+}
+
+#Sallader {
+    background-image: url(https://www.ljusstadenspizzeria.se/uploads/1aEsWcFj/Klasserbakgrund.png);
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 18px;
+    padding-left: 58px;
+    padding-right: 96px;
+    padding-bottom: 60px;
+    float: left;
+}
+
+
+
+/* header */
+
+.mobilcss {
+  background-color: #fff;
+  box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
+  position: fixed;
+  display: block;
+  margin-top: 0px;
+  width: 100%;
+  left:0px;
+  height: 36px;
+  padding-bottom:68px;
+  z-index: 3;
+}
+
+.mobilcss ul {
+  margin: 0;
+  padding: 0;
+  display: block;
+  overflow: hidden;
+  list-style: none;
+  font-size: 25px;
+  background-color: #fff;
+}
+
+.mobilcss li a {
+    display: block;
+    border: 1px solid #4d4d4d;
+    border-bottom-color: #333333 !important;
+    color: rgb(241, 241, 241);
+    text-decoration: none;
+    font-size: 18px;
+    background-color: rgb(69, 69, 69);
+    width: 93%;
+    height: 0px;
+    letter-spacing: 2px;
+    /* text-align: center; */
+    line-height: 6px;
+    font-family: Montserrat, Arial, Helvetica, sans-serif;
+}
+
+.mobilcss li a:hover,
+.mobilcss .menu-btn:hover {
+    height: 0px;
+    color: #fff;
+    background: #613131;
+}
+
+.mobilcss .logo {
+  display: block;
+  float: left;
+  font-size: 2em;
+  padding: 30px 45px;
+  text-decoration: none;
+}
+
+/* menu */
+
+.mobilcss .menu {
+  clear: both;
+  max-height: 0;
+    height: 245px;
+  display: block;
+  transition: max-height .2s ease-out;
+}
+
+/* menu icon */
+
+.mobilcss .menu-icon {
+  cursor: pointer;
+  display: inline-block;
+  float: right;
+  padding: 3px 26px;
+  margin-top: -34px;
+  position: relative;
+  user-select: none;
+  height: 31px;
+}
+
+.mobilcss .menu-icon .navicon {
+  background: #333;
+  display: block;
+  height: 3px;
+  position: relative;
+  transition: background .2s ease-out;
+  width: 18px;
+}
+
+.mobilcss .menu-icon .navicon:before,
+.mobilcss .menu-icon .navicon:after {
+  background: black;
+  content: '';
+  display: block;
+  height: 100%;
+  position: absolute;
+  transition: all .2s ease-out;
+  width: 100%;
+}
+
+.mobilcss .menu-icon .navicon:before {
+  top: 5px;
+}
+
+.mobilcss .menu-icon .navicon:after {
+  top: -5px;
+}
+
+/* menu btn */
+
+.mobilcss .menu-btn {
+  display: none;
+}
+
+.mobilcss .menu-btn:checked ~ .menu {
+  max-height: 260px;
+background-color:white;
+}
+
+.mobilcss .menu-btn:checked ~ .menu-icon .navicon {
+  background: transparent;
+}
+
+.mobilcss .menu-btn:checked ~ .menu-icon .navicon:before {
+  transform: rotate(-45deg);
+}
+
+.mobilcss .menu-btn:checked ~ .menu-icon .navicon:after {
+  transform: rotate(45deg);
+}
+
+.mobilcss .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,
+.mobilcss .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
+    top: 260px;
+    width: 27px;
+    height: 5px;
+    z-index: 99999;
+}
+
+
+.mobilcss .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
+    top: 260px;
+    width: 27px;
+    height: 5px;
+    z-index: 99999;
+}
+
+
+ul.menu {
+  box-shadow: -2px -3px 20px 6px #e1e1e1;
+}
+
+
+/* 48em = 768px */
+
+@media (min-width: 48em) {
+  .mobilcss li {
+    float: left;
+  }
+  .mobilcss li a {
+    padding: 5px 10px;
+    color: black;
+  }
+  .mobilcss .menu {
+    clear: none;
+    float: right;
+    display: block;
+    max-height: none;
+  }
+  .mobilcss .menu-icon {
+    display: none;
+  }
+}
+
+
+/* section */
+
+.section {
+  overflow: hidden;
+  margin: auto;
+  max-width: 1400px;
+}
+
+.section a {
+  position: relative;
+  float: left;
+  width: 100%;
+}
+
+.section a img {
+  width: 100%;
+  display: block;
+}
+
+.section a span {
+  color: #fff;
+  position: absolute;
+  left: 5%;
+  bottom: 5%;
+  font-size: 2em;
+  text-shadow: 1px 1px 0 #000;
+}
+
+.section-split a span {
+  display: none;
+}
+
+.section-split a:hover span {
+  display: block;
+}
+
+#menysida {
+	display:none;
+	}
+
+#KDC {
+    display:none;
+}
+#KDC_mobile {
+    background-size: contain;
+    margin-top: -1px;
+    background-color: white;
+    padding: 29px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 33px;
+    display: block;
+    background-image: url(../bilder/logo.png);
+    background-repeat: no-repeat;
+    color: white;
+    /* background-position: center; */
+    /* padding-top: 85px; */
+    /* padding-left: 14px; */
+    /* padding-bottom: 45px; */
+    display: block;
+    /* line-height: 19px; */
+    /* padding-right: 49px; */
+    /* font-style: italic; */
+    /* font-size: x-large;
+}
+
+#r3539c
+
+{
+	display: none;
+}
+
+#kdclogomeet {
+    background-image: url(../bilder/kdclogomeet.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: inital;
+    color: white;
+    background-position: center;
+    padding-top: 85px;
+    padding-left: 0;
+    padding-bottom: 239px;
+    display: block;
+    line-height: 19px;
+    padding-right: 49px;
+    font-style: italic;
+    font-size: x-large;
+    margin-top: -113px;
+}
+
+#kdclogo {
+    background-image: url(../bilder/kdclogo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: initial;
+    color: white;
+    background-position: center;
+    padding-top: 85px;
+    padding-left: 0;
+    padding-bottom: 239px;
+    display: block;
+    line-height: 19px;
+    padding-right: 49px;
+    font-style: italic;
+    font-size: x-large;
+    margin-top: -113px;
+}
+
+
+
+#mobilimg
+{
+    padding-top: 14px;
+    padding-right: 18px;
+    width: 46px;
+    height: 28px;
+}
+
