@@ -141,7 +141,105 @@ försändelsen delges genom att<br>
 
 från utbildning och föredrag till<br> kundspecifika uppdrag enligt behov<br> och önskemål  
 </center>
+
 <div id="str"> </div>
+<br><div id="OmOss"></div>
+
+<center style="font: italic normal normal 28px/1.4em brandon-grot-w01-light,sans-serif;
+    color: #737373;text-align: center;"><p>Kontakta Oss</p></center>
+<p ><center><h2  style="font: italic normal normal 19px/1.5em brandon-grot-w01-light,sans-serif;
+    color: #737373;">
+	Du kan alltid kontakta oss om du har frågor eller synpunkter. <br>Vi kommer att göra vårt yttersta för att besvara dem så snabbt och bra som möjligt. 
+<br><br><br><br><br>
+<div id="container-klass"><div id="Sa1"></div>
+<center><strong></center></strong><center><left>
+<ul><li style="font-size: 23px; font-family: 'Montserrat', sans-serif; list-style: none; margin-bottom: 15px; vertical-align: text-bottom; line-height: 1.6em"></left>
+	<p>
+	<form id="form" action="https://formspree.io/xpzjknkq" method="POST">
+
+	Förnamn:<br>
+	<input type="text" name="Förnamn" id="fnamn" /> <br>
+
+	Efternamn:<br>
+	<input type="text" name="Efternamn" id="fnamn" /> <br>
+
+	E-postadress:<br>
+	<input type="text" name="E-post" id="epost" /> <br>
+	
+	Telefon:<br>
+	<input type="text" name="Telefon" id="telefon" /> <br>
+	Meddelande:<br>
+	<textarea name="Meddelande" id="meddelande" cols="45" rows="5"></textarea> <br>
+
+	<input type="submit" name="skicka" id="skicka" value="Skicka meddelandet" />
+     <p id="my-form-status"></p>
+	</form>
+	  <br>
+  </p>
+				<script>
+  window.addEventListener("DOMContentLoaded", function() {
+
+    // get the form elements defined in your form HTML above
+    
+    var form = document.getElementById("form");
+    var button = document.getElementById("skicka");
+    var status = document.getElementById("my-form-status");
+
+    // Success and Error functions for after the form is submitted
+    
+    function success() {
+      form.reset();
+      button.style = "display: none ";
+      status.innerHTML = "Tack för ditt meddelande, vi återkommer inom kort!";
+    }
+
+    function error() {
+      status.innerHTML = "Vänligen fyll i din e-post.";
+    }
+
+    // handle the form submission event
+
+    form.addEventListener("submit", function(ev) {
+      ev.preventDefault();
+      var data = new FormData(form);
+      ajax(form.method, form.action, data, success, error);
+    });
+  });
+  
+  // helper function for sending an AJAX request
+
+  function ajax(method, url, data, success, error) {
+    var xhr = new XMLHttpRequest();
+    xhr.open(method, url);
+    xhr.setRequestHeader("Accept", "application/json");
+    xhr.onreadystatechange = function() {
+      if (xhr.readyState !== XMLHttpRequest.DONE) return;
+      if (xhr.status === 200) {
+        success(xhr.response, xhr.responseType);
+      } else {
+        error(xhr.status, xhr.response, xhr.responseType);
+      }
+    };
+    xhr.send(data);
+  }
+</script>
+
+</li>
+
+</ul>
+</center>
+</div>
+</center></h2>
+<br>
+<br>
+<br>
+<br>
+
+</center>
+
+
+<div id="str"> </div>
+
 <div id="footer"><center>© KalmarDelgivningscenter</center></div>
 </p>
 </div>
