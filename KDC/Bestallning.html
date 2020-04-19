@@ -12,8 +12,38 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="form.css" >
+		<link rel="stylesheet" href="css/dropdown.css" media="screen" type="text/css" />
+
+<link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
+<link href="css/mobilcss.css" rel="stylesheet" media="only screen and (max-width: 480px)" content="user-scalable=0, width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" type="text/css" />
+<link href="css/mobilcss.css" rel="stylesheet" media="only screen and (max-width: 760px)" content="user-scalable=0, width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" type="text/css" />
+
+		
     </head>
     <body >
+	
+	<header class="mobilcss" style="font-size:20px;top 39px">
+  <input class="menu-btn" type="checkbox" id="menu-btn" /><a href="index.html"><div id="KDC_mobile"></div></a>
+  <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label><ul class="menu">
+<li><a href="OmOss.html">Om oss</a>
+<li><a href="VaraTjanster.html">Våra tjänster</a>
+<li><a href="KontaktaOss.html">Kontakta oss</a>
+<li><a href="Bestallning.html">Beställning</a>
+
+</ul>
+</header>
+	
+	<div id="menysida">
+<ul style="background-color:-internal-root-color;transition-duration: 0.5s;position: fixed; top: -22px; width: 100%;height: 80px;left: 0; z-index: 99999; color: white; font-size:20px; line-height: 1.6em;padding-top:20px; ">
+<li><a href="OmOss.html">Om oss</a>
+<li><a href="#VaraTjanster">Våra tjänster</a>
+
+<li><a href="KontaktaOss.html">Kontakta oss</a>
+
+<li><a href="Bestallning.html">Beställning</a>
+<ul class="dropdown" style="margin: 0px"><li>
+</ul></center>
+</div>
         <div class="container">
             <!-- Form Started -->
             <div class="container form-top">
@@ -43,10 +73,10 @@
                                         <textarea rows="3" name="Meddelande" class="form-control" placeholder="Skriv ditt meddelande"></textarea>
 <br><br>
                                     <div class="form-group">
-
                                         <button class="btn btn-raised btn-block btn-danger" type="submit" id="btn1">Skicka</button>
-                                    </div>								                                    <div class="form-group">
-                                        <button class="btn btn-raised btn-block btn-danger"><a href="index.html" style="color: white;">Tillbaka till sidan</button>
+                                    </div>
+									<div class="form-group">
+                                        <button class="btn btn-raised btn-block btn-danger"><a href="index.html" style="color: white;">Tillbaka</button>
                                     </div> <p id="my-form-status"></p>
                                 </form>
 

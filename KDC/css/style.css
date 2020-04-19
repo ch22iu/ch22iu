@@ -556,7 +556,8 @@ h1,h2,h3,h4,h5,h6{
 /* CONTROLS */
 .btn { 
 	height: 62px; 
-	width: 40px;
+	width: 148px;
+	margin-left:5px;
 	float: left;
 	cursor: pointer;
 }
@@ -1390,3 +1391,8 @@ color: white;
 #myBtn { background-color:rgb(28,29,33); border-top-left-radius:100px; border-top-right-radius:100px; border-bottom-right-radius:100px; border-bottom-left-radius:100px;} 
 #myBtn span:before { color:rgb(255, 255, 255);} 
 #myBtn:hover { background-color:rgb(68,69,73);} 
+
+
+.panel-body {
+	margin-top: 65px;
+}
