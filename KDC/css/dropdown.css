@@ -145,7 +145,7 @@ header.mobilcss {
 }
 #str {
     clear: both;
-    border-bottom: 1px solid #938f8f;
+    border-bottom: 1px solid #e9e9e9;
     padding-bottom: 2px;
     margin-bottom: 28px;
     padding-top: 39px;
@@ -163,7 +163,7 @@ header.mobilcss {
 #sidmeny1 {
     background-color: white;
     width: 100%;
-    height: 670px;
+    height: 560px;
     margin: 0px;
     font: italic normal normal 17px/1.5em brandon-grot-w01-light,sans-serif;
     margin-top: 25px;
@@ -483,19 +483,19 @@ margin-left: 0px;
 }
 #Bestallning
 {
-    background-image: url('../bilder/Bestallning.png');
+    background-image: url('../bilder/message.png');
     background-repeat: no-repeat;
     color: white;
     background-position: center;
     padding-top: 85px;
     padding-left: 0;
-    padding-bottom: 239px;
+    padding-bottom: 85px;
     display: block;
     line-height: 19px;
     padding-right: 49px;
     font-style: italic;
     font-size: x-large;
-    margin-top: -113px;
+    margin-top: 5px;
 }
 
 #Klass1 {
