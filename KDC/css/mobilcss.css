@@ -21,6 +21,11 @@ a {
     letter-spacing: 0.1em;
 }
 
+.h1mobile {
+
+margin-bottom: 173px;
+}
+
 #kdclogomeet {
 
 	margin-top: -257px;
@@ -95,7 +100,7 @@ a {
     float: left;
     border: 0px;
     border-radius: 5px 5px 5px 5px;
-    box-shadow: 0px 0px 3px 0px #e1e1e1;
+    box-shadow: none;
 }
 #sidmeny2 {
     width: 100%;
