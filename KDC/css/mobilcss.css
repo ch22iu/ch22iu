@@ -4,6 +4,8 @@ body {
   background-color: white;
   display: block;
   font: normal normal normal 15px/1.4em brandon-grot-w01-light,sans-serif;
+    transition-duration: 0.5s;
+   -webkit-animation: fade-in 1.5s ease, slide-in 1.2s ease;
 }
 
 header.mobilcss {
@@ -19,6 +21,8 @@ a {
     cursor: pointer !important;
     font-weight: normal;
     letter-spacing: 0.1em;
+    transition-duration: 0.5s;
+   -webkit-animation: fade-in 1.5s ease, slide-in 1.2s ease;
 }
 
 .h1mobile {
@@ -29,11 +33,15 @@ margin-bottom: 173px;
 #kdclogomeet {
 
 	margin-top: -257px;
+    transition-duration: 0.5s;
+   -webkit-animation: fade-in 1.5s ease, slide-in 1.2s ease;
 }
 
 
 #kdclogo {
 	margin-top: -129px;
+    transition-duration: 0.5s;
+   -webkit-animation: fade-in 1.5s ease, slide-in 1.2s ease;
 }
 
 
