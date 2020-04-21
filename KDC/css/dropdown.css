@@ -172,6 +172,11 @@ header.mobilcss {
     opacity: 0.80;
     border-radius: 5px 1px 1px 5px;
     box-shadow: 0px 0px 3px 0px #e1e1e1;
+  -webkit-transition:background 0.5s;
+  -moz-transition:background 0.5s;
+  -ms-transition:background 0.5s;
+  -o-transition:background 0.5s;
+  transition:background 0.5s;
 }
 #sidmeny2 {
     background-color: white;
@@ -433,7 +438,7 @@ margin-left: 0px;
     background-image: url('../bilder/kdclogo.png');
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: inital;
+    background-attachment: initial;
     color: white;
     background-position: center;
     padding-top: 85px;
@@ -445,6 +450,9 @@ margin-left: 0px;
     font-style: italic;
     font-size: x-large;
     margin-top: -113px;
+    transition-duration: 0.5s;
+   -webkit-animation: fade-in 1.5s ease, slide-in 1.2s ease;
+
 }
 
 #kdclogomeet
@@ -452,7 +460,7 @@ margin-left: 0px;
     background-image: url('../bilder/kdclogomeet.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: inital;
+    background-attachment: initial;
     color: white;
     background-position: center;
     padding-top: 85px;
@@ -464,6 +472,8 @@ margin-left: 0px;
     font-style: italic;
     font-size: x-large;
     margin-top: -113px;
+    transition-duration: 0.5s;
+   -webkit-animation: fade-in 1.5s ease, slide-in 1.2s ease;
 }
 #KontaktaOss
 {
@@ -480,6 +490,8 @@ margin-left: 0px;
     font-style: italic;
     font-size: x-large;
     margin-top: -113px;
+    transition-duration: 0.5s;
+   -webkit-animation: fade-in 1.5s ease, slide-in 1.2s ease;
 }
 #Bestallning
 {
@@ -496,6 +508,8 @@ margin-left: 0px;
     font-style: italic;
     font-size: x-large;
     margin-top: 5px;
+    transition-duration: 0.5s;
+   -webkit-animation: fade-in 1.5s ease, slide-in 1.2s ease;
 }
 
 #Klass1 {

@@ -101,6 +101,11 @@ margin-bottom: 173px;
     border: 0px;
     border-radius: 5px 5px 5px 5px;
     box-shadow: none;
+  -webkit-transition:background 0.5s;
+  -moz-transition:background 0.5s;
+  -ms-transition:background 0.5s;
+  -o-transition:background 0.5s;
+  transition:background 0.5s;
 }
 #sidmeny2 {
     width: 100%;
